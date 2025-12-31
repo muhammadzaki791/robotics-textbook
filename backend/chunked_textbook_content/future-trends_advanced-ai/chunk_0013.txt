@@ -1,0 +1,4 @@
+**Trust and Acceptance**: Building user confidence through transparency.
+- **Capability Communication**: Clearly indicating what robots can do
+- **Limitation Understanding**: Communicating system limitations
+- **Error Explanation**: Explaining when and why systems fail

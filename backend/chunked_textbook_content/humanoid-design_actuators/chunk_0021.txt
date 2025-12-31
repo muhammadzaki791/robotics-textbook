@@ -1,0 +1,3 @@
+**Pneumatic Systems**:
+- Advantages: Light weight, inherent compliance, high power-to-weight ratio
+- Disadvantages: Compressibility effects, need for air supply, less precise control

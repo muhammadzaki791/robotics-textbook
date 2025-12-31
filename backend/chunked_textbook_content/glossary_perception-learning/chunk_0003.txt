@@ -1,0 +1,1 @@
+**Data Augmentation**: The process of artificially increasing the size of a training dataset by adding modified versions of existing data, crucial for robot learning with limited data. **Deep Q-Network (DQN)**: A reinforcement learning algorithm that uses deep neural networks to approximate Q-values, enabling learning from high-dimensional sensory inputs.

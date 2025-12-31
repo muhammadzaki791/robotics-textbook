@@ -1,0 +1,3 @@
+The centroidal momentum consists of:
+- **Linear Momentum**: h = m * v_com (mass times CoM velocity)
+- **Angular Momentum**: L = I_com * ω_com (momentum about CoM)

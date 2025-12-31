@@ -1,0 +1,5 @@
+---
+title: Social Impact and Employment
+sidebar_position: 3
+description: Understanding the societal implications of humanoid robots on employment, social structures, and human relationships.
+---

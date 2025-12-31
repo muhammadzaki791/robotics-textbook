@@ -1,0 +1,5 @@
+
+
+# Centroidal Dynamics
+
+Centroidal dynamics provides a more complete model of bipedal locomotion by considering the motion of the center of mass and the centroidal momentum.

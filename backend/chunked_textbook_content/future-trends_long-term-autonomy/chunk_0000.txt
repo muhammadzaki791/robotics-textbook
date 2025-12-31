@@ -1,0 +1,5 @@
+---
+title: Long-Term Autonomy
+sidebar_position: 7
+description: Exploring self-sufficiency, self-improvement systems, and autonomous development in robotics.
+---

@@ -1,0 +1,9 @@
+Compliance and Safety
+
+For humanoid robots interacting with humans, compliance is essential for safety:
+
+**Variable Compliance**: Adjust the robot's stiffness based on the task and environment.
+
+**Active Compliance**: Use feedback control to achieve desired compliance characteristics.
+
+**Passive Compliance**: Design mechanical compliance into the robot's structure.

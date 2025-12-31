@@ -1,0 +1,4 @@
+**Biomimetic Surfaces**: Surfaces inspired by biological systems.
+- **Adhesion**: Gecko-inspired adhesives for climbing robots
+- **Drag Reduction**: Shark skin-inspired surfaces for aquatic robots
+- **Self-Cleaning**: Lotus leaf-inspired surfaces that repel dirt

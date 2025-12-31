@@ -1,0 +1,7 @@
+Industrial and Service Applications
+
+**Manufacturing**: Some humanoid robots are being developed for tasks that require human-like dexterity and mobility in traditional human workspaces.
+
+**Healthcare**: Humanoid robots assist in hospitals, rehabilitation centers, and eldercare facilities, providing companionship and assistance with simple tasks.
+
+**Customer Service**: In some countries, humanoid robots serve as receptionists, guides, and customer service representatives.

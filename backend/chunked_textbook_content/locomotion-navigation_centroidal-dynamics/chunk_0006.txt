@@ -1,0 +1,7 @@
+Centroidal Dynamics Equations
+
+The centroidal dynamics can be expressed as:
+```
+ḣ = f_total  (rate of change of linear momentum equals total external force)
+L̇ = τ_total  (rate of change of angular momentum equals total external torque)
+```

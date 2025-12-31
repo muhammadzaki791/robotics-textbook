@@ -1,0 +1,5 @@
+Traditional model-based approaches face several limitations in robotics:
+- **Model Inaccuracies**: Real robots differ from mathematical models
+- **Environmental Uncertainty**: Real environments are complex and partially observable
+- **Task Complexity**: Some tasks are difficult to program explicitly
+- **Adaptation Needs**: Robots must adapt to new situations and changing conditions

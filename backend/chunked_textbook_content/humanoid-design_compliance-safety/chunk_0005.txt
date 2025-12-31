@@ -1,0 +1,9 @@
+Safety Protocols
+
+**Emergency Stop**: Reliable systems for immediate robot stopping.
+
+**Force Limiting**: Mechanical and control-based force limiting.
+
+**Collision Detection**: Systems to detect and respond to unintended contact.
+
+**Safe Failure Modes**: Ensuring robot remains safe when systems fail.

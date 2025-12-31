@@ -1,0 +1,5 @@
+---
+title: Manipulation Strategies
+sidebar_position: 6
+description: Understanding different manipulation approaches, planning algorithms, and humanoid-specific challenges.
+---

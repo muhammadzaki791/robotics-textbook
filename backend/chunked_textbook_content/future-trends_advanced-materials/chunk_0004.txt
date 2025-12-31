@@ -1,0 +1,4 @@
+**Shape Memory Alloys (SMAs)**: Materials that return to a predetermined shape when heated.
+- Applications: Artificial muscles, adaptive structures, morphing components
+- Advantages: High force-to-weight ratio, silent operation
+- Challenges: Slow response, limited cycle life, energy consumption

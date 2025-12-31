@@ -1,0 +1,5 @@
+---
+title: Shared Autonomy
+sidebar_position: 3
+description: Understanding shared control systems and collaborative decision-making between humans and robots.
+---

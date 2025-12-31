@@ -1,0 +1,6 @@
+Applications in Robotics
+
+**Manipulation**: Learning grasping, pushing, and complex manipulation skills
+**Locomotion**: Learning walking, running, and dynamic movements
+**Navigation**: Learning path planning and obstacle avoidance
+**Control**: Learning adaptive control policies

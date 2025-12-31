@@ -1,0 +1,4 @@
+For humanoid robots, shared autonomy is particularly important because:
+- They operate in human environments with human safety concerns
+- They may need to adapt to human preferences and working styles
+- They must be able to handle unexpected situations that require human judgment

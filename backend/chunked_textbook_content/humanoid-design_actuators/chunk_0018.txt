@@ -1,0 +1,3 @@
+**Variable Stiffness Actuators (VSA)**: Actuators with controllable compliance.
+- Advantages: Adjustable safety and performance characteristics
+- Disadvantages: Increased complexity and weight

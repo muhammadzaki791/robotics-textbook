@@ -1,0 +1,5 @@
+---
+title: Humanoid Robot Design and Embodiment
+sidebar_position: 1
+description: Engineering and design considerations for humanoid robots, including mechanical design, actuation, power systems, and physical embodiment principles specific to human-like robots.
+---

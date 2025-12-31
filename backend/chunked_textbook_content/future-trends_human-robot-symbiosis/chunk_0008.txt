@@ -1,0 +1,4 @@
+**Cultural Adaptation**: Robots that adapt to human cultures.
+- **Cultural Learning**: Learning cultural norms and practices
+- **Language Adaptation**: Adapting to different languages and dialects
+- **Social Integration**: Becoming accepted members of human communities

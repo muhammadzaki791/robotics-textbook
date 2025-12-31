@@ -1,0 +1,7 @@
+Locomotion Principles
+
+**Human Walking**: Understanding human gait for robotic walking.
+
+**Balance Strategies**: Mimicking human balance recovery mechanisms.
+
+**Energy Efficiency**: Learning from human energy-efficient movement patterns.

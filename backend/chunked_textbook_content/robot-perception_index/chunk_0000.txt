@@ -1,0 +1,5 @@
+---
+title: Robot Perception and Sensing
+sidebar_position: 1
+description: Understanding various sensors and techniques for environmental understanding and state estimation in robotics, including vision, tactile, proprioceptive sensors, and sensor fusion.
+---

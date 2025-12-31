@@ -1,0 +1,4 @@
+**Chemical Actuation**: Using chemical reactions for movement.
+- **Artificial Muscles**: Biochemical processes for actuation
+- **Self-Propulsion**: Chemical reactions for autonomous movement
+- **Challenges**: Controllability, sustainability, safety

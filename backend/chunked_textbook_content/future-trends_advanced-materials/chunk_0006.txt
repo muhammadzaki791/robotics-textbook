@@ -1,0 +1,4 @@
+**Dielectric Elastomers**: Soft materials that contract when voltage is applied.
+- Applications: Artificial muscles, soft robotics, compliant actuators
+- Advantages: Fast response, high energy density, lightweight
+- Challenges: High voltage, need for pre-stretching, long-term stability

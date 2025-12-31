@@ -1,0 +1,4 @@
+Learn quickly from limited real-world data:
+- Meta-learning approaches
+- Transfer learning from simulation
+- Active learning to select informative real-world trials

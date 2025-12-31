@@ -1,0 +1,11 @@
+Why is Bipedal Walking Challenging?
+
+Bipedal locomotion presents several unique challenges:
+
+**Dynamic Instability**: Unlike wheeled robots that are statically stable, bipedal robots are dynamically stable—they must constantly move to avoid falling.
+
+**Underactuation**: During the single-support phase (when only one foot is on the ground), the robot has fewer actuators in contact with the ground than degrees of freedom, making it underactuated.
+
+**Impact Dynamics**: The transition between steps involves impacts that create impulsive forces and require careful control.
+
+**Energy Efficiency**: Human walking is remarkably efficient, but replicating this efficiency in robots is challenging.

@@ -1,0 +1,11 @@
+Challenges in Humanoid Design
+
+Creating effective humanoid robots presents several challenges:
+
+**Balance and Locomotion**: Maintaining balance on two legs is surprisingly difficult, especially on uneven terrain or during dynamic movements.
+
+**Dexterity**: Human hands are incredibly sophisticated, with fine motor control and tactile sensitivity that's hard to replicate.
+
+**Computational Complexity**: Coordinating multiple systems in real-time requires significant computational resources.
+
+**Energy Efficiency**: Humanoid robots often consume much more energy than their human counterparts.

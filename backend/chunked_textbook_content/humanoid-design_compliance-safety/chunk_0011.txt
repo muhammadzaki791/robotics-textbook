@@ -1,0 +1,7 @@
+Cost vs. Capability
+
+**Research vs. Commercial**: Different design priorities for research vs. commercial robots.
+
+**Component Selection**: Balancing performance and cost of individual components.
+
+**Manufacturability**: Designing for efficient production and assembly.

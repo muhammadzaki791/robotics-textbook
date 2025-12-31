@@ -1,0 +1,7 @@
+Example 1: Robot Arm Grasping
+A robot arm learns to grasp objects using RL:
+- **State**: Current joint angles, camera image, object position
+- **Action**: Joint velocity commands or gripper position
+- **Reward**: +10 for successful grasp, -1 for failure, -0.1 per time step
+- **Environment**: Physics simulator with various objects
+- **Algorithm**: Deep Deterministic Policy Gradient (DDPG) for continuous actions

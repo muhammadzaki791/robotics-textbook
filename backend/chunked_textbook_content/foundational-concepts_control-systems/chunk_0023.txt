@@ -1,0 +1,5 @@
+Humanoid walking involves:
+- Gait planning (where to place feet)
+- Dynamic balance during single and double support phases
+- Adaptive control for different terrains
+- Energy-efficient motion patterns

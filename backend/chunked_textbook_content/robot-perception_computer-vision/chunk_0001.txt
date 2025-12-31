@@ -1,0 +1,5 @@
+
+
+# Computer Vision for Robotics
+
+Computer vision enables robots to interpret visual information from cameras. For humanoid robots, vision is often the primary source of environmental information.

@@ -1,0 +1,5 @@
+---
+title: Social Interaction and Communication
+sidebar_position: 7
+description: Understanding non-verbal communication, social norms, and rapport building in human-robot interaction.
+---

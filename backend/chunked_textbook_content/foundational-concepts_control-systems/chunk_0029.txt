@@ -1,0 +1,3 @@
+Example 1: PID Control for Robot Joint
+Consider a robot arm joint that needs to move to a desired angle of 45°. The current angle is 30°, and the PID parameters are Kp=2, Ki=0.1, Kd=0.5. The error is currently 15° and increasing at 5°/s. What is the control output?
+

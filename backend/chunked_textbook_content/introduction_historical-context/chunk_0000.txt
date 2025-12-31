@@ -1,0 +1,5 @@
+---
+title: Historical Context of Robotics
+sidebar_position: 4
+description: Tracing the evolution of robotics from ancient automata to modern humanoid robots.
+---

@@ -1,0 +1,4 @@
+**Human-Robot Relationships**: How might humanoid robots affect human social bonds?
+- **Companionship**: Potential for emotional attachment to robots
+- **Social Isolation**: Risk of reduced human-to-human interaction
+- **Dependency**: Concern about over-reliance on robotic systems

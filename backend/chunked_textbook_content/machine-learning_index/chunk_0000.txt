@@ -1,0 +1,5 @@
+---
+title: Machine Learning in Physical AI
+sidebar_position: 1
+description: Application of machine learning, reinforcement learning, and deep learning techniques to various aspects of physical AI and robotics, including perception, control, and sim-to-real transfer.
+---

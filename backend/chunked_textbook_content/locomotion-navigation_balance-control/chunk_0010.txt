@@ -1,0 +1,5 @@
+For humanoid robots, balance control must coordinate multiple body parts:
+- **Ankle Control**: Fine adjustments through ankle torques
+- **Hip Control**: Larger adjustments through hip movements
+- **Arm Control**: Counter-movements to help maintain balance
+- **Stepping**: Reactive or proactive step planning

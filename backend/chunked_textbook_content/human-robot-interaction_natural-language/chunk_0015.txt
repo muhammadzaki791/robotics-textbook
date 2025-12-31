@@ -1,0 +1,9 @@
+Challenges in HRI Language
+
+**Ambiguity**: Natural language is often ambiguous and requires context resolution.
+
+**Multimodal Integration**: Language must be integrated with other interaction modalities.
+
+**Real-time Processing**: Conversations require rapid response times.
+
+**Personalization**: Interaction should adapt to individual users' communication styles.

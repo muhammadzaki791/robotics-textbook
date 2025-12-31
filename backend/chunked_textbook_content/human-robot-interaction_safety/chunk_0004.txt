@@ -1,0 +1,5 @@
+Safety in HRI requires understanding potential risks:
+- **Physical Risks**: Injury from robot motion or contact
+- **Psychological Risks**: Stress, anxiety, or other negative emotional responses
+- **Social Risks**: Violation of social norms or privacy expectations
+- **Operational Risks**: System failures that could lead to unsafe conditions

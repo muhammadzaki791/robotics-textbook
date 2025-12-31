@@ -1,0 +1,5 @@
+---
+title: Brain-Computer Interfaces and Neural Integration
+sidebar_position: 4
+description: Exploring direct neural interfaces and cognitive integration between humans and robots.
+---

@@ -1,0 +1,4 @@
+The state estimation problem can be formulated as:
+- Given a sequence of control inputs and sensor measurements
+- Estimate the robot's state (position, orientation, velocity, etc.)
+- Account for uncertainty in both motion and sensing

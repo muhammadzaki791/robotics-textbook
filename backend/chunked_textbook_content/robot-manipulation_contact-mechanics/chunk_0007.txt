@@ -1,0 +1,19 @@
+Force Control Strategies
+
+**Impedance Control**: Make the robot behave like a spring-damper system, allowing controlled interaction with the environment.
+
+```
+F = K(x_desired - x_actual) + B(v_desired - v_actual)
+```
+
+Where K is stiffness, B is damping, and x and v are position and velocity.
+
+**Admittance Control**: Control the robot's motion in response to applied forces:
+
+```
+ẍ = M⁻¹(F_applied - Bẋ - Kx)
+```
+
+Where M is the desired mass.
+
+**Hybrid Force/Position Control**: Control some degrees of freedom in position and others in force, useful for constrained motions like inserting pegs into holes.

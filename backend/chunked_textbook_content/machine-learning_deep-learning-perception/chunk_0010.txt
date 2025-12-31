@@ -1,0 +1,5 @@
+Deep Learning for Sensor Processing
+
+**LiDAR Processing**: Using deep networks to process 3D point cloud data
+**Multimodal Fusion**: Combining different sensor modalities
+**End-to-End Learning**: Learning perception-action mappings directly from sensor data

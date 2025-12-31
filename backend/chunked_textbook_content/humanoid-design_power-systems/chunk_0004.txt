@@ -1,0 +1,3 @@
+**Lithium-ion Batteries**: Most common for humanoid robots.
+- Advantages: High energy density, rechargeable, mature technology
+- Disadvantages: Safety concerns, degradation over time, cost

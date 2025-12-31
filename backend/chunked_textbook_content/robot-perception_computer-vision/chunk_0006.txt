@@ -1,0 +1,5 @@
+**Key Components**:
+- Feature tracking across frames
+- Pose estimation from visual motion
+- Map building and loop closure detection
+- Bundle adjustment for map refinement

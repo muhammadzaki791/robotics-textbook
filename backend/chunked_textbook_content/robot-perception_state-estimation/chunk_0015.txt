@@ -1,0 +1,4 @@
+Particle filters are especially useful for:
+- Global localization (finding position in a map)
+- Tracking multiple hypotheses
+- Non-Gaussian noise models

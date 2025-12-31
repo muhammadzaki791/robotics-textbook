@@ -1,0 +1,4 @@
+- **1970s**: WABOT-1 at Waseda University in Japan was one of the first complete humanoid robots
+- **1980s**: Honda began development of humanoid walking robots
+- **1997**: Honda's P2 was one of the first humanoid robots to demonstrate stable bipedal walking
+- **2000**: Honda's ASIMO became famous for its advanced mobility and human interaction capabilities

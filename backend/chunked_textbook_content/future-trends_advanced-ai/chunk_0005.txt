@@ -1,0 +1,4 @@
+**Online Learning**: Learning from real-time experience.
+- **Real-time Adaptation**: Adjusting behavior based on immediate feedback
+- **Safe Learning**: Learning without causing damage or harm
+- **Efficient Learning**: Learning quickly from limited experience

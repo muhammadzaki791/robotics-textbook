@@ -1,0 +1,7 @@
+
+
+**Proportional term (Kp)**: Reacts to current error. Higher Kp makes the system respond faster but can cause oscillations.
+
+**Integral term (Ki)**: Reacts to accumulated past error. Helps eliminate steady-state error but can cause instability if too high.
+
+**Derivative term (Kd)**: Reacts to rate of change of error. Provides damping to reduce oscillations.

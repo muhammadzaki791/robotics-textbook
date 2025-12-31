@@ -1,0 +1,5 @@
+
+
+# Ethical Considerations in Robotics
+
+As humanoid robots become more capable and prevalent, ethical questions become increasingly important:

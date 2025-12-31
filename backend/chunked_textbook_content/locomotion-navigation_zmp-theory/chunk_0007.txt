@@ -1,0 +1,4 @@
+ZMP-Based Walking Pattern Generation
+
+The ZMP approach allows for the generation of stable walking patterns:
+

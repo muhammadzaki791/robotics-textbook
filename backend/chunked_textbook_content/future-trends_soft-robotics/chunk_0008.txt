@@ -1,0 +1,3 @@
+**Hydraulic Soft Actuators**: Using liquids instead of air for actuation.
+- Advantages: Incompressible, precise control, high force density
+- Challenges: Sealing, weight, complexity

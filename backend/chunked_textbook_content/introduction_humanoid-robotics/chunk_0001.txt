@@ -1,0 +1,5 @@
+
+
+# Understanding Humanoid Robotics
+
+Humanoid robots are designed with human-like characteristics, typically featuring a head, torso, arms, and legs. But why design robots to look like humans? The answer lies in both practical and social considerations.

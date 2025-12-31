@@ -1,0 +1,7 @@
+Adaptive Gait Control
+
+**Terrain Adaptation**: Adjust gait parameters based on ground properties.
+
+**Speed Adaptation**: Change step frequency and length for different speeds.
+
+**Load Adaptation**: Adjust gait when carrying objects or experiencing external forces.

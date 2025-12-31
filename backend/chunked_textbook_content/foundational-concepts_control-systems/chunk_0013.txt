@@ -1,0 +1,7 @@
+Advanced Control Concepts
+
+**Feedforward Control**: In addition to feedback control, we can add feedforward terms that anticipate the required control based on desired motion. For example, when a robot arm is moving fast, we might need to apply additional torque to overcome Coriolis forces.
+
+**Computed Torque Control**: Uses the robot's dynamic model to calculate the required torques, then adds feedback control to handle model errors and disturbances.
+
+**Impedance Control**: Instead of controlling position precisely, impedance control makes the robot behave like a spring-damper system, allowing controlled interaction with the environment.

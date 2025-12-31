@@ -1,0 +1,7 @@
+Machine Learning Approaches
+
+**Supervised Learning**: Train models on labeled examples of human behavior and corresponding intentions.
+
+**Reinforcement Learning**: Learn to predict intentions based on feedback from successful interactions.
+
+**Deep Learning**: Use neural networks to recognize complex patterns in human behavior.

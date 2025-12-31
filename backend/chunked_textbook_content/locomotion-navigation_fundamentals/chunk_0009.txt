@@ -1,0 +1,6 @@
+Example 1: Balance Recovery
+A humanoid robot walking on level ground suddenly encounters a small step. Its center of mass starts to fall outside the support polygon. The robot must quickly:
+1. Adjust its foot placement for the next step
+2. Shift its upper body to counterbalance
+3. Use ankle, hip, and stepping strategies to recover balance
+4. Continue walking with modified gait parameters

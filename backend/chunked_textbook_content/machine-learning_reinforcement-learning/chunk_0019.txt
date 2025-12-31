@@ -1,0 +1,9 @@
+Challenges in Robotic RL
+
+**Sample Efficiency**: Physical robots require many trials to learn, which is time-consuming and potentially damaging.
+
+**Safety**: Ensuring safe exploration without damaging the robot or environment.
+
+**Reality Gap**: Policies trained in simulation may not transfer to the real world.
+
+**Continuous Action Spaces**: Many robotic tasks require precise control of continuous motor commands.

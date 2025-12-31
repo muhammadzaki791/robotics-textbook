@@ -1,0 +1,7 @@
+Shared Control Architectures
+
+**Switching Architecture**: System switches between human and robot control based on situation.
+
+**Parallel Architecture**: Both human and robot can influence robot behavior simultaneously.
+
+**Hierarchical Architecture**: Different levels of the control system have different human/robot authority.

@@ -1,0 +1,3 @@
+1. **Desired ZMP Trajectory**: Define a ZMP trajectory that stays within the support polygon
+2. **CoM Trajectory**: Integrate the ZMP equations to find the required CoM motion
+3. **Joint Trajectory**: Use inverse kinematics to find joint angles that achieve the CoM motion

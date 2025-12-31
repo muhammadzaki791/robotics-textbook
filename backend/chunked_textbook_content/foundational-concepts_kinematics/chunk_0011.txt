@@ -1,0 +1,4 @@
+The Jacobian is crucial for:
+- Velocity control of robot arms
+- Understanding singularities (configurations where the robot loses degrees of freedom)
+- Force control applications

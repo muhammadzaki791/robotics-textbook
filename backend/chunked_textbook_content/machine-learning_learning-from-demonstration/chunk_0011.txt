@@ -1,0 +1,3 @@
+**Advantages**:
+- Simple to implement
+- Fast learning from demonstrations

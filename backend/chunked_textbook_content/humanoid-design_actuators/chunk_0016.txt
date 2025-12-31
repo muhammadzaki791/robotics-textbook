@@ -1,0 +1,6 @@
+Torque Control and Compliance
+
+**Rigid Control**: Traditional approach with high gear ratios for precise position control.
+
+**Compliant Control**: Intentionally allowing some flexibility for safety and interaction.
+

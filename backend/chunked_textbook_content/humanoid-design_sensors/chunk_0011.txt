@@ -1,0 +1,7 @@
+Tactile Sensors
+
+**Hand Integration**: Distributed across fingertips and palms.
+
+**Body Coverage**: For collision detection and social interaction.
+
+**Signal Processing**: Real-time processing of tactile information.

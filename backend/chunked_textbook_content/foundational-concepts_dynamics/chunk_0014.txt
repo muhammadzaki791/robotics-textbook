@@ -1,0 +1,4 @@
+This equation shows that the torque required at each joint depends on:
+- Acceleration (M(q)q̈)
+- Velocity (C(q, q̇)q̇)
+- Gravity (g(q))

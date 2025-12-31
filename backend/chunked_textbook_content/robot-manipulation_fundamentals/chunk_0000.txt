@@ -1,0 +1,5 @@
+---
+title: Fundamentals of Manipulation
+sidebar_position: 2
+description: Understanding the basic principles and components of robotic manipulation.
+---

@@ -1,0 +1,5 @@
+**Joint Placement**: Must consider:
+- Range of motion requirements
+- Mechanical interference between links
+- Cable and sensor routing
+- Maintenance accessibility

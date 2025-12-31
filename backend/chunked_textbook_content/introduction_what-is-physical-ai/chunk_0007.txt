@@ -1,0 +1,10 @@
+
+## Practical Examples
+
+### Example 1: Embodied Cognition in Humanoid Robots
+Consider a humanoid robot learning to open a door. The robot's physical form—its arm length, hand shape, and joint configuration—affects how it perceives and approaches the task. A shorter robot might need to reach higher, while a robot with limited joint angles might need to approach from a specific angle. This is embodiment in action: the robot's physical form directly influences its intelligence and behavior.
+
+### Example 2: Real-time Processing Requirements
+A humanoid robot walking down stairs must process visual information, maintain balance, and adjust its gait in real-time. If it takes too long to process the visual data about the next step, it might miss the step and fall. This demonstrates the critical need for real-time processing in Physical AI.
+
+## 

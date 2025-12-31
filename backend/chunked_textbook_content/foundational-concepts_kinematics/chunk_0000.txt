@@ -1,0 +1,5 @@
+---
+title: Kinematics - The Study of Motion
+sidebar_position: 3
+description: Understanding forward and inverse kinematics for robotic motion analysis.
+---

@@ -1,0 +1,5 @@
+Dynamics is particularly important for humanoid robots because:
+- They must maintain balance against gravity
+- Their motion creates complex interaction forces
+- They need to handle external forces (like pushing or impacts)
+- They must be energy-efficient for battery operation

@@ -1,0 +1,5 @@
+
+
+# Control Systems in Robotics
+
+Control systems determine how robots respond to commands and disturbances. In robotics, we typically want to make a robot follow a desired trajectory or maintain a desired state.

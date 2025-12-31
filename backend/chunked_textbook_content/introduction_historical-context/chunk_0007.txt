@@ -1,0 +1,3 @@
+- **1921**: Karel Čapek's play "R.U.R." (Rossum's Universal Robots) introduced the word "robot" to the world
+- **1950s**: George Devol created the first programmable robot, Unimate, which began work in a General Motors factory in 1961
+- **1960s**: The Stanford Arm and MIT's "Handy" robot laid groundwork for manipulation research

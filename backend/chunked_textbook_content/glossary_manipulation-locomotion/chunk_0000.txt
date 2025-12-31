@@ -1,0 +1,5 @@
+---
+title: Manipulation and Locomotion
+sidebar_position: 5
+description: Movement and interaction concepts including manipulation, grasping, and locomotion.
+---

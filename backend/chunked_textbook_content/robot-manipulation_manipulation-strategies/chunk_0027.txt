@@ -1,0 +1,5 @@
+Manipulation planning must consider:
+- Grasp planning for the object
+- Approach and departure motions
+- Transport trajectories
+- Placement planning

@@ -1,0 +1,5 @@
+
+
+# Sensor Fusion
+
+Sensor fusion combines data from multiple sensors to achieve better performance than any individual sensor could provide. The goal is to leverage the strengths of different sensors while compensating for their weaknesses.

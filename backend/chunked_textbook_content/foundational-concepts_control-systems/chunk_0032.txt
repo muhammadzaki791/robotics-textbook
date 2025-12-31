@@ -1,0 +1,3 @@
+Example 2: Balance Control for Humanoid Robot
+A humanoid robot is standing on one foot. To maintain balance, it must keep its center of mass (CoM) directly over the support foot. If the CoM is detected to be 2cm forward of the support point, how should the robot adjust its posture?
+

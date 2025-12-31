@@ -1,0 +1,11 @@
+Power Consumption Considerations
+
+**Standby Power**: Power consumed when robot is idle but ready.
+
+**Locomotion Power**: Energy required for walking and balance maintenance.
+
+**Manipulation Power**: Energy for arm and hand movements.
+
+**Processing Power**: Energy for computation and control systems.
+
+**Communication Power**: Energy for wireless communication and displays.

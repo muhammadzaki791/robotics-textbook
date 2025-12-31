@@ -1,0 +1,15 @@
+Jacobian Matrix
+
+The Jacobian matrix relates joint velocities to end-effector velocities. It's essential for understanding how small changes in joint angles affect the end-effector position.
+
+For a robot with n joints, the Jacobian is a 6×n matrix (6 because we have 3 linear and 3 angular velocities) that maps joint space velocities to Cartesian space velocities:
+
+```
+[ẋ]   [J₁₁  J₁₂  ...  J₁n] [θ̇₁]
+[ẏ]   [J₂₁  J₂₂  ...  J₂n] [θ̇₂]
+[ż] = [J₃₁  J₃₂  ...  J₃n] [...]
+[ωₓ]  [J₄₁  J₄₂  ...  J₄n] [θ̇ₙ]
+[ωᵧ]
+[ωz]
+```
+

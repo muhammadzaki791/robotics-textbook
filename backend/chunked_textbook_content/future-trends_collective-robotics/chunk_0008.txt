@@ -1,0 +1,4 @@
+**Collective Manipulation**: Multiple robots manipulating objects together.
+- **Cooperative Transport**: Moving large objects together
+- **Assembly**: Collaborative construction tasks
+- **Adaptive Structures**: Robots forming functional structures

@@ -1,0 +1,4 @@
+Centroidal dynamics enables more sophisticated control approaches:
+- **Model Predictive Control (MPC)**: Predict future states based on centroidal dynamics
+- **Whole-body Control**: Coordinate upper and lower body motion
+- **Push Recovery**: Handle external disturbances more effectively

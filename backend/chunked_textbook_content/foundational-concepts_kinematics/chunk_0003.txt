@@ -1,0 +1,4 @@
+Forward Kinematics
+
+Forward kinematics answers the question: "Given the joint angles, where is the end-effector?"
+

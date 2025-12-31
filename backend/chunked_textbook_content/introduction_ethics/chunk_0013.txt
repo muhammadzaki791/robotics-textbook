@@ -1,0 +1,4 @@
+There are concerns about:
+- How humanoid robots might affect human self-worth
+- Appropriate applications for humanoid robots
+- Maintaining human agency in an automated world

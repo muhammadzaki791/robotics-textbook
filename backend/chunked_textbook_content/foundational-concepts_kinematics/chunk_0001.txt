@@ -1,0 +1,5 @@
+
+
+# Kinematics - The Study of Motion
+
+Kinematics is the study of motion without considering the forces that cause it. In robotics, we use kinematics to understand the relationship between joint positions and the position and orientation of the robot's end-effector (or other parts of the robot).

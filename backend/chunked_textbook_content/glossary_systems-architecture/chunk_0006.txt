@@ -1,0 +1,1 @@
+**System Integration**: The process of combining different robot subsystems into a functional whole, ensuring proper communication and coordination. **Task Planning**: The process of determining a sequence of actions to achieve a goal, considering constraints and resources.

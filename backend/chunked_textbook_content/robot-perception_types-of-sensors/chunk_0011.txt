@@ -1,0 +1,3 @@
+**Types**:
+- **2D LiDAR**: Provides 2D range measurements, commonly used for navigation
+- **3D LiDAR**: Provides full 3D point clouds, more suitable for complex scene understanding

@@ -1,0 +1,5 @@
+
+
+# Tactile Sensing and Haptics
+
+Tactile sensing provides information about contact and force, essential for manipulation and safe interaction.

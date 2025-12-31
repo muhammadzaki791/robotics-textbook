@@ -1,0 +1,4 @@
+**Gestures**:
+- **Deictic Gestures**: Pointing to objects or locations
+- **Iconic Gestures**: Representing objects or actions
+- **Emblematic Gestures**: Culturally specific gestures with specific meanings

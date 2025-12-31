@@ -1,0 +1,1 @@
+**Cyber-Physical System**: A system that integrates computation, networking, and physical processes, which is fundamental to modern robotics. **Data Pipeline**: The infrastructure for collecting, processing, and storing data in robot systems, crucial for learning and adaptation.

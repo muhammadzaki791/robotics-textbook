@@ -1,0 +1,4 @@
+For a simple 2D robot arm with two joints, if we know:
+- Joint angle θ₁ (angle of first joint from x-axis)
+- Joint angle θ₂ (relative angle of second joint)
+- Link lengths L₁ and L₂

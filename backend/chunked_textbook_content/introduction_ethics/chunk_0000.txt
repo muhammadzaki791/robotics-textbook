@@ -1,0 +1,5 @@
+---
+title: Ethical Considerations in Robotics
+sidebar_position: 6
+description: Examining the ethical implications and considerations in humanoid robotics development and deployment.
+---

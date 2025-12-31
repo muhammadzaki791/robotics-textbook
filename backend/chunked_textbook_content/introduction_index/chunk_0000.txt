@@ -1,0 +1,5 @@
+---
+title: Introduction to Physical AI & Humanoid Robotics
+sidebar_position: 1
+description: An introduction to the fundamental concepts of Physical AI and humanoid robotics, covering definitions, history, applications, and ethical considerations.
+---

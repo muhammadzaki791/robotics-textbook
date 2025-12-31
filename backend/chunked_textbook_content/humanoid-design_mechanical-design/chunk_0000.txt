@@ -1,0 +1,5 @@
+---
+title: Mechanical Design Principles
+sidebar_position: 2
+description: Understanding the mechanical design principles for humanoid robots including DOF, link design, and joint considerations.
+---

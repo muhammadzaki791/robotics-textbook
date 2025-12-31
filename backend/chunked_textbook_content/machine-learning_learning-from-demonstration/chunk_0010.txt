@@ -1,0 +1,9 @@
+Behavioral Cloning
+
+Behavioral cloning treats the learning problem as supervised learning:
+```
+minimize: Σ ||π_θ(s_i) - a_i||²
+```
+
+Where π_θ is the policy parameterized by θ, s_i are state observations, and a_i are demonstrated actions.
+

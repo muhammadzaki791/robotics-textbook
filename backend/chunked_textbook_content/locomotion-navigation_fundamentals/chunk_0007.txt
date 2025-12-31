@@ -1,0 +1,9 @@
+Key Biomechanical Concepts
+
+**Center of Mass (CoM)**: The point where the robot's mass is concentrated. Maintaining CoM stability is crucial for balance.
+
+**Center of Pressure (CoP)**: The point where the ground reaction force acts. The CoP must remain within the support polygon (the area under the feet) for stability.
+
+**Support Polygon**: The convex hull of all contact points with the ground. For bipedal robots, this changes as feet transition from single to double support.
+
+**Step Width and Length**: Parameters that affect stability and efficiency of walking.

@@ -1,0 +1,4 @@
+**Lifelong Learning**: Robots that continuously learn and adapt.
+- **Catastrophic Forgetting**: Preventing loss of old knowledge when learning new
+- **Transfer Learning**: Applying knowledge from one domain to another
+- **Meta-Learning**: Learning to learn efficiently

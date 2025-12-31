@@ -1,0 +1,7 @@
+Contemporary Robot Ethics
+
+**Machine Ethics**: Programming ethical decision-making into robots for situations requiring moral judgment.
+
+**Roboethics**: The study of how humans should behave toward robots and how robots should behave toward humans.
+
+**Human-Robot Interaction Ethics**: Focused specifically on the ethical dimensions of human-robot relationships.

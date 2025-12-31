@@ -1,0 +1,3 @@
+**Hydraulic Systems**:
+- Advantages: High power density, excellent force control
+- Disadvantages: Heavy, complex plumbing, potential for leaks

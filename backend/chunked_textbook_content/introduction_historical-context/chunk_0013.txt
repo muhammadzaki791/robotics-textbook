@@ -1,0 +1,3 @@
+- **2010s**: Boston Dynamics' Atlas robot demonstrated remarkable mobility and balance
+- **2020s**: Tesla's Optimus and other companies' humanoid robots show increasing commercial interest
+- **Current**: Multiple companies developing humanoid robots for various applications

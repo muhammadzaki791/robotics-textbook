@@ -1,0 +1,4 @@
+**Structural Considerations**:
+- **Center of Mass**: Critical for balance and stability
+- **Moment of Inertia**: Affects dynamic performance and energy consumption
+- **Stress Distribution**: Components must handle dynamic loads during motion

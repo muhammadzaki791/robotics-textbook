@@ -1,0 +1,3 @@
+Feature-Level Fusion
+
+Extract features from different sensors and combine them. For example, combining visual features with range data for object recognition.

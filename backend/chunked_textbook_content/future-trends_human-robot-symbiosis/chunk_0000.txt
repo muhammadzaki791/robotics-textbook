@@ -1,0 +1,5 @@
+---
+title: Human-Robot Symbiosis
+sidebar_position: 8
+description: Exploring seamless integration, extended cognition, and social integration of robots in human society.
+---

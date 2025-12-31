@@ -1,0 +1,9 @@
+Human Safety Considerations
+
+**Contact Forces**: Limiting forces during human-robot interaction.
+
+**Sharp Edges**: Rounded edges and smooth surfaces to prevent injury.
+
+**Pinch Points**: Eliminating areas where humans can be caught.
+
+**Chemical Safety**: Safe materials and fluids that may contact humans.

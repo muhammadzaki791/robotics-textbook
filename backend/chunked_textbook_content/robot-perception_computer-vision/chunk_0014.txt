@@ -1,0 +1,6 @@
+Example 2: Visual Odometry
+A robot moving through a hallway can estimate its motion by tracking features across consecutive frames:
+- Detect features in frame t
+- Track these features to frame t+1
+- Compute the robot's relative motion based on feature displacements
+- Integrate motion estimates to maintain a trajectory

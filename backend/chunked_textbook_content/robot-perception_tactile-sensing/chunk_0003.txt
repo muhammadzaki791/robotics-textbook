@@ -1,0 +1,9 @@
+Tactile Sensor Technologies
+
+**Resistive Sensors**: Measure contact through changes in electrical resistance.
+
+**Capacitive Sensors**: Detect contact through changes in capacitance.
+
+**Optical Sensors**: Use light to detect deformation of a sensing surface.
+
+**Piezoelectric Sensors**: Generate electrical signals in response to applied force.

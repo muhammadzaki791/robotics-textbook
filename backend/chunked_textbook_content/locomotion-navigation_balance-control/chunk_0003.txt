@@ -1,0 +1,7 @@
+Feedback Control Approaches
+
+**Inverted Pendulum Model**: Simplifies the robot to a point mass on a stick, useful for basic balance control.
+
+**Linear Inverted Pendulum Mode (LIPM)**: Assumes constant CoM height, leading to linear dynamics that are easier to control.
+
+**Capture Point**: A point on the ground where a robot can step to stop its motion and maintain balance.

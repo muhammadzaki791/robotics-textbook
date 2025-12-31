@@ -1,0 +1,5 @@
+Maintaining balance requires:
+- Real-time center of mass tracking
+- Zero Moment Point (ZMP) control
+- Whole-body control strategies that coordinate multiple joints
+- Fast reaction to disturbances

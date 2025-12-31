@@ -1,0 +1,11 @@
+Exercises
+
+1. **Feature Detection Comparison**: Compare the computational complexity of SIFT, SURF, and ORB. Which would be most suitable for a humanoid robot with limited computational resources? Justify your answer.
+
+2. **SLAM Application**: Design a simple visual SLAM pipeline for a humanoid robot navigating an office environment. What specific challenges would you need to address compared to wheeled robots?
+
+3. **Deep Learning Integration**: How would you integrate a pre-trained CNN for object detection into a humanoid robot's perception system? What considerations would you have for real-time performance?
+
+4. **Illumination Robustness**: Design a computer vision pipeline that works well under varying lighting conditions (daylight, artificial light, shadows). What techniques would you use?
+
+5. **Humanoid-Specific Vision**: What are the unique challenges of computer vision for humanoid robots compared to other robot platforms? How would you address the issue of a moving camera (head) in humanoid robots?

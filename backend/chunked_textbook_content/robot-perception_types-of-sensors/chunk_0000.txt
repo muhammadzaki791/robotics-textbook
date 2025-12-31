@@ -1,0 +1,5 @@
+---
+title: Types of Sensors in Robotics
+sidebar_position: 2
+description: Understanding exteroceptive and proprioceptive sensors used in robotic systems.
+---

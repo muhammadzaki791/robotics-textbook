@@ -1,0 +1,7 @@
+Disturbance Recovery
+
+**Ankle Strategy**: Use ankle torques to recover from small disturbances.
+
+**Hip Strategy**: Use hip torques for larger disturbances.
+
+**Stepping Strategy**: Take a recovery step when other strategies are insufficient.

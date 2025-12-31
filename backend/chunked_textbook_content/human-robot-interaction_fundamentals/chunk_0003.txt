@@ -1,0 +1,11 @@
+What Makes HRI Different?
+
+Human-robot interaction differs from human-computer interaction in several key ways:
+
+**Physical Presence**: Robots exist in the same physical space as humans, creating opportunities for spatial interaction and requiring safety considerations.
+
+**Embodied Communication**: Robots can communicate through movement, posture, and physical actions, not just visual displays or audio.
+
+**Social Expectations**: Humans often anthropomorphize robots, expecting social behaviors even from simple machines.
+
+**Dynamic Environment**: Both human and robot may be moving, creating a constantly changing interaction context.

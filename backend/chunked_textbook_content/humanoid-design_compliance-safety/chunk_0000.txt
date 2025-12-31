@@ -1,0 +1,5 @@
+---
+title: Compliance and Safety
+sidebar_position: 7
+description: Understanding mechanical compliance, safety protocols, and human safety considerations in humanoid robot design.
+---

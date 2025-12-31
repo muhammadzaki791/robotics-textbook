@@ -1,0 +1,4 @@
+Humanoid robots often need to perform multiple tasks simultaneously:
+- Maintain balance while moving arms
+- Walk while carrying objects
+- Interact with environment while maintaining stability

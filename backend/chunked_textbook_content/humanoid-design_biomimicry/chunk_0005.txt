@@ -1,0 +1,7 @@
+Biological Actuation
+
+**Muscle-like Actuators**: Pneumatic muscles and other bio-inspired actuators.
+
+**Tendon Systems**: Cable-driven systems mimicking human tendons.
+
+**Antagonistic Pairs**: Opposing actuators like human muscle pairs.

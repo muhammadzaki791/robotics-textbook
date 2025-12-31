@@ -1,0 +1,13 @@
+Inverse Kinematics
+
+Inverse kinematics answers the opposite question: "Where should the joints be to place the end-effector at a desired position and orientation?"
+
+This is much more challenging than forward kinematics. For the same 2-joint arm, if we want the end-effector at position (x, y), we need to solve:
+
+```
+θ₂ = ± arccos((x² + y² - L₁² - L₂²) / (2 * L₁ * L₂))
+θ₁ = arctan(y/x) - arctan((L₂ * sin(θ₂)) / (L₁ + L₂ * cos(θ₂)))
+```
+
+Notice that there can be multiple solutions (the ± indicates two possible configurations), and sometimes no solution exists if the desired position is outside the robot's reach.
+

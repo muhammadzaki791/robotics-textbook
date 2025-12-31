@@ -1,0 +1,11 @@
+Key Components of Manipulation
+
+**End-effector**: The tool at the end of the robot arm that directly interacts with objects. This could be a simple gripper, a complex multi-fingered hand, or a specialized tool.
+
+**Workspace**: The region of space that the robot's end-effector can reach.
+
+**Grasping**: Establishing a stable connection between the robot and an object.
+
+**Transport**: Moving the grasped object to a desired location.
+
+**Release**: Disengaging from the object at the target location.

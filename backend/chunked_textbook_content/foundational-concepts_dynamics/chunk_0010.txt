@@ -1,0 +1,3 @@
+The Newton-Euler Approach
+
+Alternatively, we can use the Newton-Euler approach, which applies Newton's laws directly to each link of the robot. This method is often more intuitive and is commonly used for forward dynamics (calculating motion given forces) and inverse dynamics (calculating forces needed for desired motion).

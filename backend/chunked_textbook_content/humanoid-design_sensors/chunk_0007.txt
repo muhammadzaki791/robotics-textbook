@@ -1,0 +1,7 @@
+Force/Torque Sensors
+
+**Wrist Sensors**: For manipulation and grasping feedback.
+
+**Ankle Sensors**: For balance control and ground contact detection.
+
+**Joint Sensors**: For internal force monitoring and safety.

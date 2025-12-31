@@ -1,0 +1,3 @@
+- For position control of robot joints, start with high proportional gain for responsiveness
+- Add derivative gain to dampen oscillations
+- Use integral gain sparingly to eliminate small steady-state errors

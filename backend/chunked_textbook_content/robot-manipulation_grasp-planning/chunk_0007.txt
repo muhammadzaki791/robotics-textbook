@@ -1,0 +1,7 @@
+Grasp Planning Approaches
+
+**Analytical Methods**: For known objects with simple geometries, compute optimal grasp points based on geometric and physical criteria.
+
+**Data-Driven Methods**: Learn grasp points from successful grasps on similar objects. Deep learning approaches can predict grasp success from visual input.
+
+**Optimization-Based Methods**: Formulate grasp planning as an optimization problem, considering factors like grasp stability, manipulability, and accessibility.

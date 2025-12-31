@@ -1,0 +1,4 @@
+Components of Humanoid Robots
+
+Humanoid robots typically include:
+

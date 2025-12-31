@@ -1,0 +1,4 @@
+**Functional Safety**:
+- **Emergency Stop**: Reliable means for humans to stop robot operation
+- **Risk Assessment**: Systematic evaluation of potential hazards
+- **Safety Functions**: Dedicated safety systems that operate independently of main control

@@ -1,0 +1,3 @@
+
+
+This requires advanced control techniques like operational space control or quadratic programming-based controllers that can prioritize different tasks.

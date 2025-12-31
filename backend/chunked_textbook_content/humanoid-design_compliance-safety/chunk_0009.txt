@@ -1,0 +1,7 @@
+Performance vs. Safety
+
+**Precision vs. Compliance**: Trade-offs between precise control and safe interaction.
+
+**Speed vs. Safety**: Faster motion may be less safe for human interaction.
+
+**Power vs. Safety**: Higher power actuators may be more dangerous.

@@ -1,0 +1,11 @@
+Exercises
+
+1. **PID Tuning**: For a robot joint that tends to oscillate around the target position, which PID parameter should be increased to reduce oscillations? Explain your reasoning.
+
+2. **Control Architecture**: Design a control architecture for a humanoid robot that needs to walk forward while avoiding obstacles detected by its cameras. What are the different control levels and how do they interact?
+
+3. **Balance Challenge**: A humanoid robot is standing on a moving platform. How would you modify the balance control system to handle this disturbance? What additional sensors would be helpful?
+
+4. **Multi-Task Control**: How would you prioritize tasks when a humanoid robot needs to maintain balance, move its arm to pick up an object, and avoid an obstacle simultaneously? Design a priority scheme.
+
+5. **ZMP Control**: Explain the concept of Zero Moment Point (ZMP) in humanoid robotics. Why is it important for stable walking, and how would you implement a simple ZMP controller?

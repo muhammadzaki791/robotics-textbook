@@ -1,0 +1,5 @@
+---
+title: Safety in Human-Robot Interaction
+sidebar_position: 6
+description: Understanding risk assessment, safety standards, and protective mechanisms for safe collaboration.
+---

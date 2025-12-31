@@ -1,0 +1,3 @@
+Data-Level Fusion
+
+Combine raw sensor data before processing. For example, combining data from multiple cameras to create a more complete view.

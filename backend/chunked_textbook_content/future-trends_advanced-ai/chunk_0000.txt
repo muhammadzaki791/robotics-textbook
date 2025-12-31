@@ -1,0 +1,5 @@
+---
+title: Advanced AI and Learning Systems
+sidebar_position: 6
+description: Exploring continual learning, multi-modal learning, and explainable AI for robotics applications.
+---

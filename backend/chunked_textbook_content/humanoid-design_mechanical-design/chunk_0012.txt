@@ -1,0 +1,8 @@
+Joint Design
+
+**Revolute Joints**: Most common, allowing rotation around a single axis.
+
+**Prismatic Joints**: Linear motion, less common in humanoid robots.
+
+**Spherical Joints**: Multiple degrees of freedom in a single joint (complex, rarely used).
+

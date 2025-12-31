@@ -1,0 +1,4 @@
+**Energy Autonomy**: Robots that can operate independently for extended periods.
+- **Energy Harvesting**: Collecting energy from the environment
+- **Efficient Operation**: Minimizing energy consumption
+- **Recharging Systems**: Autonomous refueling and recharging

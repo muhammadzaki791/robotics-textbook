@@ -1,0 +1,5 @@
+---
+title: Collective and Swarm Robotics
+sidebar_position: 5
+description: Exploring principles of collective behavior and swarm intelligence in robotics systems.
+---

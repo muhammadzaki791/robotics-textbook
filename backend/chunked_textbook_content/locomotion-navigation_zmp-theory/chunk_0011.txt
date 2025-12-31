@@ -1,0 +1,4 @@
+**Advantages**:
+- Provides clear stability criterion
+- Well-established mathematical framework
+- Computationally efficient

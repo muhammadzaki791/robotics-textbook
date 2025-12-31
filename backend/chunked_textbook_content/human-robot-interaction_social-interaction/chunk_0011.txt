@@ -1,0 +1,5 @@
+Effective HRI systems can build positive relationships with users:
+- **Personalization**: Remembering user preferences and interaction history
+- **Empathy**: Responding appropriately to user emotional states
+- **Consistency**: Behaving predictably to build trust
+- **Competence**: Demonstrating capability to build confidence

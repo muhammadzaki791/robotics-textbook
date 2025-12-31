@@ -1,0 +1,4 @@
+**Transparent Decision Making**: Understanding robot reasoning.
+- **Local Explanations**: Explaining specific decisions
+- **Global Understanding**: Understanding general behavior patterns
+- **Human-Interpretable**: Explanations in human-understandable terms

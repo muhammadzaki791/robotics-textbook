@@ -1,0 +1,7 @@
+Sim-to-Real Techniques
+
+**Systematic Differences**: Identify and model the key differences between simulation and reality.
+
+**Robust Control**: Design policies that are robust to model inaccuracies.
+
+**Online Adaptation**: Adapt policies based on real-world experience.

@@ -1,0 +1,9 @@
+Grasp Stability
+
+A stable grasp must be able to resist external disturbances. Key factors include:
+
+**Friction**: The contact points must provide sufficient friction to prevent sliding.
+
+**Force Closure**: The grasp can resist any external wrench (force and torque) through appropriate finger forces.
+
+**Form Closure**: The object's shape and the finger positions geometrically constrain all possible motions.

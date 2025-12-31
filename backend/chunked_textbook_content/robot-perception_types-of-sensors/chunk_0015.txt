@@ -1,0 +1,3 @@
+Proprioceptive Sensors
+
+Proprioceptive sensors measure the robot's internal state—its configuration and motion.

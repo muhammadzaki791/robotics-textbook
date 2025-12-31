@@ -1,0 +1,4 @@
+**Actor-Critic Methods**:
+- Actor: learns the policy
+- Critic: evaluates the policy
+- Advantage Actor-Critic (A2C/A3C), Proximal Policy Optimization (PPO)

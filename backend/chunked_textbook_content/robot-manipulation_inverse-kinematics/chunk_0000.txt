@@ -1,0 +1,5 @@
+---
+title: Inverse Kinematics for End-Effector Control
+sidebar_position: 3
+description: Understanding inverse kinematics methods for positioning robot end-effectors.
+---

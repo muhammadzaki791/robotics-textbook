@@ -1,0 +1,5 @@
+Sampling-Based Methods
+
+**RRT (Rapidly-exploring Random Trees)**: Explore the space of possible footstep sequences.
+
+**PRM (Probabilistic Roadmap)**: Pre-compute a roadmap of possible footsteps.

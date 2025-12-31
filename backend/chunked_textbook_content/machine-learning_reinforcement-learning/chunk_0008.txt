@@ -1,0 +1,3 @@
+**Value-Based Methods**: Learn the value of states or state-action pairs
+- Q-Learning: Learn Q-values Q(s,a)
+- Deep Q-Networks (DQN): Use neural networks for Q-function approximation

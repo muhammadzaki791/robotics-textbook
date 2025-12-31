@@ -1,0 +1,5 @@
+**Physical Safety**:
+- **Speed and Separation Monitoring**: Limit robot speed when humans are nearby
+- **Power and Force Limiting**: Design robots with limited force output
+- **Safety-Rated Monitored Stop**: Stop robot motion when humans enter safety zones
+- **Hand Guiding**: Allow safe direct manipulation of robot motion

@@ -1,0 +1,13 @@
+
+
+**Temporal Consistency**: The requirement that robot systems maintain proper timing relationships between different components and processes.
+
+**Threading**: The use of multiple execution threads to improve robot system performance and responsiveness.
+
+**Version Control**: Systems for managing changes to robot software over time, essential for collaborative development.
+
+**Virtual Reality (VR)**: Computer-generated simulation of a three-dimensional environment that can be interacted with, used for robot programming and training.
+
+**Visualization**: The process of creating visual representations of robot data, important for debugging and monitoring robot systems.
+
+**Workflow**: The sequence of processes through which data flows in a robot system, from sensors to actuators.

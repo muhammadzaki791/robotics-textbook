@@ -1,0 +1,4 @@
+**Shared Cognitive Load**: Distributing tasks between human and robot cognition.
+- **Attention**: Robots monitoring environment while human focuses on tasks
+- **Memory**: Robots storing information for human access
+- **Decision Making**: Collaborative decision processes

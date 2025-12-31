@@ -1,0 +1,12 @@
+Markov Decision Processes (MDPs)
+
+The standard framework for RL problems:
+```
+S: Set of states
+A: Set of actions
+P(s'|s,a): Transition probability from s to s' with action a
+R(s,a,s'): Reward function
+γ: Discount factor
+```
+
+The goal is to find a policy π that maximizes expected cumulative reward.

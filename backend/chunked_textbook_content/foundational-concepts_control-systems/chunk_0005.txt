@@ -1,0 +1,8 @@
+Proportional-Integral-Derivative (PID) Control
+
+PID control is the most common control strategy in robotics. It calculates control actions based on three terms:
+
+```
+u(t) = Kp * e(t) + Ki * ∫e(t)dt + Kd * de(t)/dt
+```
+

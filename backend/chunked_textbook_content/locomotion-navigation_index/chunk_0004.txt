@@ -1,0 +1,6 @@
+By the end of this chapter, you will be able to:
+- Understand the principles of bipedal locomotion and balance control
+- Explain Zero Moment Point (ZMP) and centroidal dynamics concepts
+- Describe whole-body control strategies for humanoid locomotion
+- Plan footstep placement for navigation in complex environments
+- Implement basic Simultaneous Localization and Mapping (SLAM) for humanoid robots

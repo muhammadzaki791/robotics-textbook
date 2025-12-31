@@ -1,0 +1,5 @@
+Robots must perceive terrain properties:
+- **Traversability**: Is the ground safe to step on?
+- **Slope**: How steep is the terrain?
+- **Obstacles**: What obstacles need to be avoided or stepped over?
+- **Footstep Planning**: Where are good places to place feet?

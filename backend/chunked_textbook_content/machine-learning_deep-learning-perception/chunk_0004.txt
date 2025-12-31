@@ -1,0 +1,4 @@
+**Object Detection**: Identifying and localizing objects in images
+- YOLO (You Only Look Once)
+- R-CNN variants
+- SSD (Single Shot Detector)

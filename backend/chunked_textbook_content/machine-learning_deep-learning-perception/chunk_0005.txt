@@ -1,0 +1,4 @@
+**Semantic Segmentation**: Pixel-level classification of image content
+- FCN (Fully Convolutional Networks)
+- U-Net
+- DeepLab

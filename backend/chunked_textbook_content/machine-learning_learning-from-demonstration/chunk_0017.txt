@@ -1,0 +1,9 @@
+Imitation Learning Challenges
+
+**Embodiment Mismatch**: Demonstrations from one robot may not transfer to another with different kinematics.
+
+**State Representation**: Determining what information is relevant for learning.
+
+**Demonstration Quality**: Poor demonstrations can lead to poor learned policies.
+
+**Safety**: Ensuring safe execution during learning and deployment.

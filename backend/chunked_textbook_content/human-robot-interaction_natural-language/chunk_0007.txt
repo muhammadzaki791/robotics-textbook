@@ -1,0 +1,4 @@
+Beyond recognizing words, robots must understand meaning:
+- **Intent Classification**: Determine the purpose of the human's utterance
+- **Entity Extraction**: Identify specific objects, locations, or concepts mentioned
+- **Dialogue State Tracking**: Maintain context across multiple turns of conversation

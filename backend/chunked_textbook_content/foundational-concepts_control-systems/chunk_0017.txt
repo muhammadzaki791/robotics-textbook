@@ -1,0 +1,3 @@
+Control in Humanoid Robotics
+
+Humanoid robots present unique control challenges:

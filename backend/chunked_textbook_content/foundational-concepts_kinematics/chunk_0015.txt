@@ -1,0 +1,7 @@
+Example 2: Inverse Kinematics for Reach
+If you want the same 2-link arm to reach point (4, 3), what are the required joint angles?
+
+**Solution:**
+Using the inverse kinematics formulas with x=4, y=3, L₁=5, L₂=3:
+r² = x² + y² = 16 + 9 = 25
+θ₂ = ± arccos((25 - 25 - 9) / (2*5*3)) = ± arccos(-9/30) = ± arccos(-0.3) ≈ ±1.876 radians (≈ ±107.4°)

@@ -1,0 +1,3 @@
+**Series Elastic Actuators (SEA)**: Include springs in series with the motor for inherent compliance.
+- Advantages: Safe interaction, accurate force control, shock absorption
+- Disadvantages: Reduced precision, added complexity

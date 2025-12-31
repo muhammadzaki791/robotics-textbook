@@ -1,0 +1,3 @@
+
+
+**Model-Based Methods**: Learn the environment dynamics and plan using the model

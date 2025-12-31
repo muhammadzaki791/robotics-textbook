@@ -1,0 +1,11 @@
+Exercises
+
+1. **Embodiment Exercise**: Think of a simple task like picking up a cup. How would the approach differ for robots with different physical forms? Consider a wheeled robot, a quadruped robot, and a humanoid robot.
+
+2. **Uncertainty Management**: In a real-world scenario, sensors often provide noisy or incomplete data. How might a humanoid robot handle uncertainty when trying to navigate through a crowded room?
+
+3. **Multi-modal Perception**: List at least 3 different types of sensors a humanoid robot might use to understand whether a door is open or closed. How would these sensors complement each other?
+
+4. **Physical AI vs. Traditional AI**: Identify a task that would be easy for traditional AI but challenging for Physical AI, and vice versa. Explain why.
+
+5. **Safety Considerations**: What safety measures would you implement in a humanoid robot designed to assist elderly people in their homes? How would these requirements influence the robot's design and behavior?

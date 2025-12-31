@@ -1,0 +1,3 @@
+**IMU Placement**: Critical for balance and orientation estimation.
+- Typically located near the center of mass
+- Multiple IMUs for redundancy and whole-body awareness

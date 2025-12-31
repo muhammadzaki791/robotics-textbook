@@ -1,0 +1,5 @@
+Open-Loop vs. Closed-Loop Control
+
+**Open-loop control** sends commands to the robot without checking if the desired result is achieved. For example, commanding a joint to move to a specific angle without verifying it actually gets there.
+
+**Closed-loop control** (feedback control) measures the actual state of the system and adjusts commands based on the difference between desired and actual states. This is much more robust to disturbances and model inaccuracies.

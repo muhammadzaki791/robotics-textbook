@@ -1,0 +1,5 @@
+---
+title: Understanding Humanoid Robotics
+sidebar_position: 3
+description: Exploring the concept of humanoid robots, their design principles, and the rationale behind human-like robot forms.
+---

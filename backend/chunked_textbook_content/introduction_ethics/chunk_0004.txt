@@ -1,0 +1,4 @@
+Humanoid robots must operate safely around humans. This requires:
+- Robust safety systems to prevent harm
+- Fail-safe mechanisms when systems malfunction
+- Clear operational boundaries and limitations

@@ -1,0 +1,9 @@
+Understanding Human Intent
+
+For effective collaboration, robots must understand what humans intend to do. This involves:
+
+**Action Recognition**: Identifying what the human is currently doing.
+
+**Goal Inference**: Determining the human's high-level objectives.
+
+**Plan Recognition**: Understanding the sequence of actions the human intends to perform.

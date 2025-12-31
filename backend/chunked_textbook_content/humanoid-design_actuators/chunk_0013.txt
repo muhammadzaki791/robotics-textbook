@@ -1,0 +1,3 @@
+**Planetary Gearboxes**: Good balance of performance and cost.
+- Advantages: Robust, good torque density, cost-effective
+- Disadvantages: Lower reduction ratios, potential backlash

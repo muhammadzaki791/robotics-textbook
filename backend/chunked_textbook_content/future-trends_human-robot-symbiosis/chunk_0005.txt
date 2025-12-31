@@ -1,0 +1,4 @@
+**Extended Cognition**: Robots as cognitive extensions of humans.
+- **Memory Augmentation**: Robots storing and retrieving information
+- **Processing Power**: Robots providing computational assistance
+- **Sensory Enhancement**: Robots providing enhanced sensing capabilities

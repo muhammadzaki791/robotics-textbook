@@ -1,0 +1,4 @@
+Non-verbal Communication
+
+Humans communicate extensively through non-verbal cues, which robots should recognize and utilize:
+

@@ -1,0 +1,11 @@
+Key Characteristics of Physical AI
+
+**Embodiment**: Physical AI systems have bodies that interact with the environment. This embodiment is crucial because the body's form and capabilities directly influence how the AI system perceives and acts in the world.
+
+**Real-time Processing**: Physical systems must respond to environmental changes quickly. A robot walking on uneven terrain can't afford to think for seconds about each step—it must react in real-time.
+
+**Uncertainty Management**: The physical world is full of uncertainties. Sensors provide noisy data, actuators have imperfect control, and environments constantly change. Physical AI must handle these uncertainties robustly.
+
+**Multi-modal Perception**: Physical AI systems typically use multiple types of sensors—cameras, touch sensors, force sensors, gyroscopes—to understand their environment. Integrating these different types of information is a key challenge.
+
+**Safe Physical Interaction**: Unlike virtual AI, Physical AI must ensure its actions don't cause harm to itself, humans, or the environment.

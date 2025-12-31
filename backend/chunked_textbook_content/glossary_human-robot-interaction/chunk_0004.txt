@@ -1,0 +1,45 @@
+
+
+**Implicit Communication**: Communication that occurs without explicit verbal or gestural signals, such as through context or shared understanding.
+
+**Intention Recognition**: The ability of robots to infer human intentions from observed behavior, gestures, or other cues.
+
+**Joint Attention**: A state where a human and robot focus on the same object or event, fundamental to collaborative interaction.
+
+**Mental Model**: The internal representation that humans or robots have of the other agent's capabilities, intentions, and likely behavior.
+
+**Mutual Adaptation**: The process where both humans and robots adjust their behavior to improve collaboration and interaction quality.
+
+**Non-Verbal Communication**: Communication through body language, facial expressions, gestures, and other non-verbal cues between humans and robots.
+
+**Normative Behavior**: Behavior that conforms to social norms and expectations, important for robots to be accepted in human environments.
+
+**Paralinguistic Features**: Vocal features such as pitch, tone, and rhythm that convey meaning beyond the words themselves, important for natural interaction.
+
+**Personal Space**: The physical space around a person that they consider psychologically theirs, which robots must respect during interaction.
+
+**Proxemics**: The study of how humans and robots use space in interaction, including distances, orientation, and spatial relationships.
+
+**Reciprocal Interaction**: Interaction where both humans and robots actively contribute and respond to each other, rather than one-way communication.
+
+**Robot Anthropomorphism**: The tendency of humans to attribute human characteristics to robots, which can affect interaction and expectations.
+
+**Robot Etiquette**: The social rules and conventions that govern appropriate robot behavior in human environments.
+
+**Robot Personality**: The consistent behavioral patterns that make a robot appear to have a distinct character or persona.
+
+**Situational Awareness**: The perception of environmental elements and events with respect to time and space, crucial for appropriate robot responses.
+
+**Social Cues**: Signals that convey social information, such as eye contact, body posture, and facial expressions, important for natural interaction.
+
+**Social Navigation**: The ability of robots to move through human spaces while respecting social norms and avoiding disruption.
+
+**Social Presence**: The degree to which a robot is perceived as a real social actor rather than just a machine.
+
+**Social Robotics**: A field of robotics that focuses on creating robots that can interact with humans in socially meaningful ways.
+
+**Socio-Emotional Behavior**: Robot behaviors that address human social and emotional needs during interaction.
+
+**Synchronous Interaction**: Interaction where humans and robots engage simultaneously in real-time, as opposed to asynchronous communication.
+
+**Turn-Taking**: The social

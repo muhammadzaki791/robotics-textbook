@@ -1,0 +1,3 @@
+**Harmonic Drives**: High reduction ratio, compact, smooth operation.
+- Advantages: High precision, compact, zero backlash
+- Disadvantages: Expensive, can be fragile, limited lifetime

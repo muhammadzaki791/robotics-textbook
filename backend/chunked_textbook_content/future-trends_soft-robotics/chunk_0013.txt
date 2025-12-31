@@ -1,0 +1,4 @@
+**Control Challenges**: Soft systems require different control approaches.
+- **Model Uncertainty**: Difficulty modeling highly deformable systems
+- **Distributed Control**: Managing many degrees of freedom
+- **Learning-Based Control**: Adapting to system changes

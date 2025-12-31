@@ -1,0 +1,4 @@
+**Maintenance Autonomy**: Robots that can maintain themselves.
+- **Self-Diagnosis**: Detecting and identifying problems
+- **Self-Repair**: Fixing minor issues autonomously
+- **Self-Calibration**: Maintaining sensor and actuator accuracy

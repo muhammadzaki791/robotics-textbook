@@ -1,0 +1,11 @@
+Interaction Modalities
+
+Robots can interact with humans through multiple channels:
+
+**Verbal Communication**: Speech recognition and synthesis for natural language interaction.
+
+**Non-verbal Communication**: Gestures, facial expressions, posture, and proxemics (spatial relationships).
+
+**Physical Interaction**: Direct physical contact, including haptic feedback and collaborative manipulation.
+
+**Visual Communication**: Displays, lights, and visual feedback to convey state and intentions.

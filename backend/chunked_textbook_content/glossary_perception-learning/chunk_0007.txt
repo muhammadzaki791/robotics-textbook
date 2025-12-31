@@ -1,0 +1,17 @@
+
+
+**Structured Learning**: Learning methods that predict structured outputs rather than scalar values, useful for robot planning and control.
+
+**Support Vector Machine (SVM)**: A supervised learning model that finds the optimal hyperplane to separate different classes in data.
+
+**Transfer Learning**: A machine learning technique where a model trained for one task is reused as the starting point for a model on a second task.
+
+**Unimodal Learning**: Learning that uses only a single type of sensor data, as opposed to multi-modal learning.
+
+**Variance Reduction**: Techniques used to reduce the variance of estimates in machine learning, particularly important in reinforcement learning.
+
+**Visual Servoing**: The control of robot motion using visual feedback, enabling precise manipulation and navigation.
+
+**Visual-Inertial Odometry**: The combination of visual and inertial measurements to estimate robot motion, providing robust state estimation.
+
+**Zero-Shot Learning**: A learning approach where a model can recognize classes it has never seen during training, useful for robot adaptation.

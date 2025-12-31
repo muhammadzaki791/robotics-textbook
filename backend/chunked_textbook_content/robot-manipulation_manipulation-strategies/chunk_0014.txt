@@ -1,0 +1,5 @@
+Using two arms simultaneously presents challenges:
+- Coordination between arms
+- Avoiding collisions
+- Task allocation between hands
+- Whole-body motion planning

@@ -1,0 +1,9 @@
+Simultaneous Localization and Mapping (SLAM)
+
+SLAM is crucial for humanoid robots operating in unknown environments:
+
+**Visual SLAM**: Use cameras to build maps and localize.
+
+**LiDAR SLAM**: Use range sensors for accurate mapping.
+
+**Multi-Sensor SLAM**: Combine cameras, LiDAR, IMUs, and odometry.

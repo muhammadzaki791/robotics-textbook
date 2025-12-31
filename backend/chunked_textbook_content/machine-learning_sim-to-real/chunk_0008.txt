@@ -1,0 +1,5 @@
+Domain Adaptation
+
+**Unsupervised Domain Adaptation**: Adapt models from simulation to reality without labeled real data.
+
+**Adversarial Domain Adaptation**: Use adversarial training to make features domain-invariant.

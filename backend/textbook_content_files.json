@@ -1,0 +1,546 @@
+[
+  {
+    "document_id": "ethics-safety_ethical-frameworks",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\ethics-safety\\ethical-frameworks.md",
+    "relative_path": "ethics-safety\\ethical-frameworks.md",
+    "title": "Ethical Frameworks for Humanoid Robotics",
+    "chapter": "ethics-safety",
+    "url_path": "ethics-safety/ethical-frameworks"
+  },
+  {
+    "document_id": "ethics-safety_index",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\ethics-safety\\index.md",
+    "relative_path": "ethics-safety\\index.md",
+    "title": "Ethical, Social, and Safety Implications",
+    "chapter": "ethics-safety",
+    "url_path": "ethics-safety/index"
+  },
+  {
+    "document_id": "ethics-safety_social-impact",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\ethics-safety\\social-impact.md",
+    "relative_path": "ethics-safety\\social-impact.md",
+    "title": "Social Impact and Employment",
+    "chapter": "ethics-safety",
+    "url_path": "ethics-safety/social-impact"
+  },
+  {
+    "document_id": "foundational-concepts_control-systems",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\foundational-concepts\\control-systems.md",
+    "relative_path": "foundational-concepts\\control-systems.md",
+    "title": "Control Systems in Robotics",
+    "chapter": "foundational-concepts",
+    "url_path": "foundational-concepts/control-systems"
+  },
+  {
+    "document_id": "foundational-concepts_coordinate-systems",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\foundational-concepts\\coordinate-systems.md",
+    "relative_path": "foundational-concepts\\coordinate-systems.md",
+    "title": "Coordinate Systems and Representations",
+    "chapter": "foundational-concepts",
+    "url_path": "foundational-concepts/coordinate-systems"
+  },
+  {
+    "document_id": "foundational-concepts_dynamics",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\foundational-concepts\\dynamics.md",
+    "relative_path": "foundational-concepts\\dynamics.md",
+    "title": "Dynamics - Forces and Motion",
+    "chapter": "foundational-concepts",
+    "url_path": "foundational-concepts/dynamics"
+  },
+  {
+    "document_id": "foundational-concepts_index",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\foundational-concepts\\index.md",
+    "relative_path": "foundational-concepts\\index.md",
+    "title": "Foundational Concepts in Robotics",
+    "chapter": "foundational-concepts",
+    "url_path": "foundational-concepts/index"
+  },
+  {
+    "document_id": "foundational-concepts_kinematics",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\foundational-concepts\\kinematics.md",
+    "relative_path": "foundational-concepts\\kinematics.md",
+    "title": "Kinematics - The Study of Motion",
+    "chapter": "foundational-concepts",
+    "url_path": "foundational-concepts/kinematics"
+  },
+  {
+    "document_id": "future-trends_advanced-ai",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\future-trends\\advanced-ai.md",
+    "relative_path": "future-trends\\advanced-ai.md",
+    "title": "Advanced AI and Learning Systems",
+    "chapter": "future-trends",
+    "url_path": "future-trends/advanced-ai"
+  },
+  {
+    "document_id": "future-trends_advanced-materials",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\future-trends\\advanced-materials.md",
+    "relative_path": "future-trends\\advanced-materials.md",
+    "title": "Advanced Materials and Manufacturing",
+    "chapter": "future-trends",
+    "url_path": "future-trends/advanced-materials"
+  },
+  {
+    "document_id": "future-trends_brain-computer-interfaces",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\future-trends\\brain-computer-interfaces.md",
+    "relative_path": "future-trends\\brain-computer-interfaces.md",
+    "title": "Brain-Computer Interfaces and Neural Integration",
+    "chapter": "future-trends",
+    "url_path": "future-trends/brain-computer-interfaces"
+  },
+  {
+    "document_id": "future-trends_collective-robotics",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\future-trends\\collective-robotics.md",
+    "relative_path": "future-trends\\collective-robotics.md",
+    "title": "Collective and Swarm Robotics",
+    "chapter": "future-trends",
+    "url_path": "future-trends/collective-robotics"
+  },
+  {
+    "document_id": "future-trends_human-robot-symbiosis",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\future-trends\\human-robot-symbiosis.md",
+    "relative_path": "future-trends\\human-robot-symbiosis.md",
+    "title": "Human-Robot Symbiosis",
+    "chapter": "future-trends",
+    "url_path": "future-trends/human-robot-symbiosis"
+  },
+  {
+    "document_id": "future-trends_index",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\future-trends\\index.md",
+    "relative_path": "future-trends\\index.md",
+    "title": "Future Trends and Research Frontiers",
+    "chapter": "future-trends",
+    "url_path": "future-trends/index"
+  },
+  {
+    "document_id": "future-trends_long-term-autonomy",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\future-trends\\long-term-autonomy.md",
+    "relative_path": "future-trends\\long-term-autonomy.md",
+    "title": "Long-Term Autonomy",
+    "chapter": "future-trends",
+    "url_path": "future-trends/long-term-autonomy"
+  },
+  {
+    "document_id": "future-trends_soft-robotics",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\future-trends\\soft-robotics.md",
+    "relative_path": "future-trends\\soft-robotics.md",
+    "title": "Soft Robotics",
+    "chapter": "future-trends",
+    "url_path": "future-trends/soft-robotics"
+  },
+  {
+    "document_id": "glossary_control-dynamics",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\glossary\\control-dynamics.md",
+    "relative_path": "glossary\\control-dynamics.md",
+    "title": "Control and Dynamics",
+    "chapter": "glossary",
+    "url_path": "glossary/control-dynamics"
+  },
+  {
+    "document_id": "glossary_human-robot-interaction",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\glossary\\human-robot-interaction.md",
+    "relative_path": "glossary\\human-robot-interaction.md",
+    "title": "Human-Robot Interaction",
+    "chapter": "glossary",
+    "url_path": "glossary/human-robot-interaction"
+  },
+  {
+    "document_id": "glossary_index",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\glossary\\index.md",
+    "relative_path": "glossary\\index.md",
+    "title": "Glossary",
+    "chapter": "glossary",
+    "url_path": "glossary/index"
+  },
+  {
+    "document_id": "glossary_manipulation-locomotion",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\glossary\\manipulation-locomotion.md",
+    "relative_path": "glossary\\manipulation-locomotion.md",
+    "title": "Manipulation and Locomotion",
+    "chapter": "glossary",
+    "url_path": "glossary/manipulation-locomotion"
+  },
+  {
+    "document_id": "glossary_perception-learning",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\glossary\\perception-learning.md",
+    "relative_path": "glossary\\perception-learning.md",
+    "title": "Perception and Learning",
+    "chapter": "glossary",
+    "url_path": "glossary/perception-learning"
+  },
+  {
+    "document_id": "glossary_robotics-fundamentals",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\glossary\\robotics-fundamentals.md",
+    "relative_path": "glossary\\robotics-fundamentals.md",
+    "title": "Robotics Fundamentals",
+    "chapter": "glossary",
+    "url_path": "glossary/robotics-fundamentals"
+  },
+  {
+    "document_id": "glossary_systems-architecture",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\glossary\\systems-architecture.md",
+    "relative_path": "glossary\\systems-architecture.md",
+    "title": "Systems and Architecture",
+    "chapter": "glossary",
+    "url_path": "glossary/systems-architecture"
+  },
+  {
+    "document_id": "human-robot-interaction_fundamentals",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\human-robot-interaction\\fundamentals.md",
+    "relative_path": "human-robot-interaction\\fundamentals.md",
+    "title": "Fundamentals of Human-Robot Interaction",
+    "chapter": "human-robot-interaction",
+    "url_path": "human-robot-interaction/fundamentals"
+  },
+  {
+    "document_id": "human-robot-interaction_index",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\human-robot-interaction\\index.md",
+    "relative_path": "human-robot-interaction\\index.md",
+    "title": "Human-Robot Interaction and Collaboration",
+    "chapter": "human-robot-interaction",
+    "url_path": "human-robot-interaction/index"
+  },
+  {
+    "document_id": "human-robot-interaction_intention-recognition",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\human-robot-interaction\\intention-recognition.md",
+    "relative_path": "human-robot-interaction\\intention-recognition.md",
+    "title": "Intention Recognition and Prediction",
+    "chapter": "human-robot-interaction",
+    "url_path": "human-robot-interaction/intention-recognition"
+  },
+  {
+    "document_id": "human-robot-interaction_natural-language",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\human-robot-interaction\\natural-language.md",
+    "relative_path": "human-robot-interaction\\natural-language.md",
+    "title": "Natural Language Interaction",
+    "chapter": "human-robot-interaction",
+    "url_path": "human-robot-interaction/natural-language"
+  },
+  {
+    "document_id": "human-robot-interaction_safety",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\human-robot-interaction\\safety.md",
+    "relative_path": "human-robot-interaction\\safety.md",
+    "title": "Safety in Human-Robot Interaction",
+    "chapter": "human-robot-interaction",
+    "url_path": "human-robot-interaction/safety"
+  },
+  {
+    "document_id": "human-robot-interaction_shared-autonomy",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\human-robot-interaction\\shared-autonomy.md",
+    "relative_path": "human-robot-interaction\\shared-autonomy.md",
+    "title": "Shared Autonomy",
+    "chapter": "human-robot-interaction",
+    "url_path": "human-robot-interaction/shared-autonomy"
+  },
+  {
+    "document_id": "human-robot-interaction_social-interaction",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\human-robot-interaction\\social-interaction.md",
+    "relative_path": "human-robot-interaction\\social-interaction.md",
+    "title": "Social Interaction and Communication",
+    "chapter": "human-robot-interaction",
+    "url_path": "human-robot-interaction/social-interaction"
+  },
+  {
+    "document_id": "humanoid-design_actuators",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\humanoid-design\\actuators.md",
+    "relative_path": "humanoid-design\\actuators.md",
+    "title": "Actuator Technologies",
+    "chapter": "humanoid-design",
+    "url_path": "humanoid-design/actuators"
+  },
+  {
+    "document_id": "humanoid-design_biomimicry",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\humanoid-design\\biomimicry.md",
+    "relative_path": "humanoid-design\\biomimicry.md",
+    "title": "Biomimicry in Design",
+    "chapter": "humanoid-design",
+    "url_path": "humanoid-design/biomimicry"
+  },
+  {
+    "document_id": "humanoid-design_compliance-safety",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\humanoid-design\\compliance-safety.md",
+    "relative_path": "humanoid-design\\compliance-safety.md",
+    "title": "Compliance and Safety",
+    "chapter": "humanoid-design",
+    "url_path": "humanoid-design/compliance-safety"
+  },
+  {
+    "document_id": "humanoid-design_index",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\humanoid-design\\index.md",
+    "relative_path": "humanoid-design\\index.md",
+    "title": "Humanoid Robot Design and Embodiment",
+    "chapter": "humanoid-design",
+    "url_path": "humanoid-design/index"
+  },
+  {
+    "document_id": "humanoid-design_mechanical-design",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\humanoid-design\\mechanical-design.md",
+    "relative_path": "humanoid-design\\mechanical-design.md",
+    "title": "Mechanical Design Principles",
+    "chapter": "humanoid-design",
+    "url_path": "humanoid-design/mechanical-design"
+  },
+  {
+    "document_id": "humanoid-design_power-systems",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\humanoid-design\\power-systems.md",
+    "relative_path": "humanoid-design\\power-systems.md",
+    "title": "Power Systems and Management",
+    "chapter": "humanoid-design",
+    "url_path": "humanoid-design/power-systems"
+  },
+  {
+    "document_id": "humanoid-design_sensors",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\humanoid-design\\sensors.md",
+    "relative_path": "humanoid-design\\sensors.md",
+    "title": "Sensor Integration",
+    "chapter": "humanoid-design",
+    "url_path": "humanoid-design/sensors"
+  },
+  {
+    "document_id": "introduction_applications",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\introduction\\applications.md",
+    "relative_path": "introduction\\applications.md",
+    "title": "Current Applications and Future Potential",
+    "chapter": "introduction",
+    "url_path": "introduction/applications"
+  },
+  {
+    "document_id": "introduction_ethics",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\introduction\\ethics.md",
+    "relative_path": "introduction\\ethics.md",
+    "title": "Ethical Considerations in Robotics",
+    "chapter": "introduction",
+    "url_path": "introduction/ethics"
+  },
+  {
+    "document_id": "introduction_historical-context",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\introduction\\historical-context.md",
+    "relative_path": "introduction\\historical-context.md",
+    "title": "Historical Context of Robotics",
+    "chapter": "introduction",
+    "url_path": "introduction/historical-context"
+  },
+  {
+    "document_id": "introduction_humanoid-robotics",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\introduction\\humanoid-robotics.md",
+    "relative_path": "introduction\\humanoid-robotics.md",
+    "title": "Understanding Humanoid Robotics",
+    "chapter": "introduction",
+    "url_path": "introduction/humanoid-robotics"
+  },
+  {
+    "document_id": "introduction_index",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\introduction\\index.md",
+    "relative_path": "introduction\\index.md",
+    "title": "Introduction to Physical AI & Humanoid Robotics",
+    "chapter": "introduction",
+    "url_path": "introduction/index"
+  },
+  {
+    "document_id": "introduction_what-is-physical-ai",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\introduction\\what-is-physical-ai.md",
+    "relative_path": "introduction\\what-is-physical-ai.md",
+    "title": "What is Physical AI?",
+    "chapter": "introduction",
+    "url_path": "introduction/what-is-physical-ai"
+  },
+  {
+    "document_id": "locomotion-navigation_balance-control",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\locomotion-navigation\\balance-control.md",
+    "relative_path": "locomotion-navigation\\balance-control.md",
+    "title": "Balance Control Strategies",
+    "chapter": "locomotion-navigation",
+    "url_path": "locomotion-navigation/balance-control"
+  },
+  {
+    "document_id": "locomotion-navigation_centroidal-dynamics",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\locomotion-navigation\\centroidal-dynamics.md",
+    "relative_path": "locomotion-navigation\\centroidal-dynamics.md",
+    "title": "Centroidal Dynamics",
+    "chapter": "locomotion-navigation",
+    "url_path": "locomotion-navigation/centroidal-dynamics"
+  },
+  {
+    "document_id": "locomotion-navigation_footstep-planning",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\locomotion-navigation\\footstep-planning.md",
+    "relative_path": "locomotion-navigation\\footstep-planning.md",
+    "title": "Footstep Planning and Navigation",
+    "chapter": "locomotion-navigation",
+    "url_path": "locomotion-navigation/footstep-planning"
+  },
+  {
+    "document_id": "locomotion-navigation_fundamentals",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\locomotion-navigation\\fundamentals.md",
+    "relative_path": "locomotion-navigation\\fundamentals.md",
+    "title": "Fundamentals of Bipedal Locomotion",
+    "chapter": "locomotion-navigation",
+    "url_path": "locomotion-navigation/fundamentals"
+  },
+  {
+    "document_id": "locomotion-navigation_gait-planning",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\locomotion-navigation\\gait-planning.md",
+    "relative_path": "locomotion-navigation\\gait-planning.md",
+    "title": "Gait Generation and Planning",
+    "chapter": "locomotion-navigation",
+    "url_path": "locomotion-navigation/gait-planning"
+  },
+  {
+    "document_id": "locomotion-navigation_index",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\locomotion-navigation\\index.md",
+    "relative_path": "locomotion-navigation\\index.md",
+    "title": "Locomotion and Navigation for Humanoids",
+    "chapter": "locomotion-navigation",
+    "url_path": "locomotion-navigation/index"
+  },
+  {
+    "document_id": "locomotion-navigation_zmp-theory",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\locomotion-navigation\\zmp-theory.md",
+    "relative_path": "locomotion-navigation\\zmp-theory.md",
+    "title": "Zero Moment Point (ZMP) Theory",
+    "chapter": "locomotion-navigation",
+    "url_path": "locomotion-navigation/zmp-theory"
+  },
+  {
+    "document_id": "machine-learning_deep-learning-perception",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\machine-learning\\deep-learning-perception.md",
+    "relative_path": "machine-learning\\deep-learning-perception.md",
+    "title": "Deep Learning for Robotic Perception",
+    "chapter": "machine-learning",
+    "url_path": "machine-learning/deep-learning-perception"
+  },
+  {
+    "document_id": "machine-learning_fundamentals",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\machine-learning\\fundamentals.md",
+    "relative_path": "machine-learning\\fundamentals.md",
+    "title": "Machine Learning Fundamentals for Robotics",
+    "chapter": "machine-learning",
+    "url_path": "machine-learning/fundamentals"
+  },
+  {
+    "document_id": "machine-learning_index",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\machine-learning\\index.md",
+    "relative_path": "machine-learning\\index.md",
+    "title": "Machine Learning in Physical AI",
+    "chapter": "machine-learning",
+    "url_path": "machine-learning/index"
+  },
+  {
+    "document_id": "machine-learning_learning-from-demonstration",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\machine-learning\\learning-from-demonstration.md",
+    "relative_path": "machine-learning\\learning-from-demonstration.md",
+    "title": "Learning from Demonstration",
+    "chapter": "machine-learning",
+    "url_path": "machine-learning/learning-from-demonstration"
+  },
+  {
+    "document_id": "machine-learning_reinforcement-learning",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\machine-learning\\reinforcement-learning.md",
+    "relative_path": "machine-learning\\reinforcement-learning.md",
+    "title": "Reinforcement Learning in Robotics",
+    "chapter": "machine-learning",
+    "url_path": "machine-learning/reinforcement-learning"
+  },
+  {
+    "document_id": "machine-learning_sim-to-real",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\machine-learning\\sim-to-real.md",
+    "relative_path": "machine-learning\\sim-to-real.md",
+    "title": "Sim-to-Real Transfer",
+    "chapter": "machine-learning",
+    "url_path": "machine-learning/sim-to-real"
+  },
+  {
+    "document_id": "robot-manipulation_contact-mechanics",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\robot-manipulation\\contact-mechanics.md",
+    "relative_path": "robot-manipulation\\contact-mechanics.md",
+    "title": "Contact Mechanics and Force Control",
+    "chapter": "robot-manipulation",
+    "url_path": "robot-manipulation/contact-mechanics"
+  },
+  {
+    "document_id": "robot-manipulation_fundamentals",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\robot-manipulation\\fundamentals.md",
+    "relative_path": "robot-manipulation\\fundamentals.md",
+    "title": "Fundamentals of Manipulation",
+    "chapter": "robot-manipulation",
+    "url_path": "robot-manipulation/fundamentals"
+  },
+  {
+    "document_id": "robot-manipulation_grasp-planning",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\robot-manipulation\\grasp-planning.md",
+    "relative_path": "robot-manipulation\\grasp-planning.md",
+    "title": "Grasp Planning and Taxonomies",
+    "chapter": "robot-manipulation",
+    "url_path": "robot-manipulation/grasp-planning"
+  },
+  {
+    "document_id": "robot-manipulation_index",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\robot-manipulation\\index.md",
+    "relative_path": "robot-manipulation\\index.md",
+    "title": "Robot Manipulation and Grasping",
+    "chapter": "robot-manipulation",
+    "url_path": "robot-manipulation/index"
+  },
+  {
+    "document_id": "robot-manipulation_inverse-kinematics",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\robot-manipulation\\inverse-kinematics.md",
+    "relative_path": "robot-manipulation\\inverse-kinematics.md",
+    "title": "Inverse Kinematics for End-Effector Control",
+    "chapter": "robot-manipulation",
+    "url_path": "robot-manipulation/inverse-kinematics"
+  },
+  {
+    "document_id": "robot-manipulation_manipulation-strategies",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\robot-manipulation\\manipulation-strategies.md",
+    "relative_path": "robot-manipulation\\manipulation-strategies.md",
+    "title": "Manipulation Strategies",
+    "chapter": "robot-manipulation",
+    "url_path": "robot-manipulation/manipulation-strategies"
+  },
+  {
+    "document_id": "robot-perception_computer-vision",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\robot-perception\\computer-vision.md",
+    "relative_path": "robot-perception\\computer-vision.md",
+    "title": "Computer Vision for Robotics",
+    "chapter": "robot-perception",
+    "url_path": "robot-perception/computer-vision"
+  },
+  {
+    "document_id": "robot-perception_index",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\robot-perception\\index.md",
+    "relative_path": "robot-perception\\index.md",
+    "title": "Robot Perception and Sensing",
+    "chapter": "robot-perception",
+    "url_path": "robot-perception/index"
+  },
+  {
+    "document_id": "robot-perception_sensor-fusion",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\robot-perception\\sensor-fusion.md",
+    "relative_path": "robot-perception\\sensor-fusion.md",
+    "title": "Sensor Fusion",
+    "chapter": "robot-perception",
+    "url_path": "robot-perception/sensor-fusion"
+  },
+  {
+    "document_id": "robot-perception_state-estimation",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\robot-perception\\state-estimation.md",
+    "relative_path": "robot-perception\\state-estimation.md",
+    "title": "State Estimation",
+    "chapter": "robot-perception",
+    "url_path": "robot-perception/state-estimation"
+  },
+  {
+    "document_id": "robot-perception_tactile-sensing",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\robot-perception\\tactile-sensing.md",
+    "relative_path": "robot-perception\\tactile-sensing.md",
+    "title": "Tactile Sensing and Haptics",
+    "chapter": "robot-perception",
+    "url_path": "robot-perception/tactile-sensing"
+  },
+  {
+    "document_id": "robot-perception_types-of-sensors",
+    "file_path": "C:\\Users\\dell\\OneDrive\\Desktop\\Zaki-Projects\\Q4\\New folder\\Book\\docs\\robotics-textbook\\robot-perception\\types-of-sensors.md",
+    "relative_path": "robot-perception\\types-of-sensors.md",
+    "title": "Types of Sensors in Robotics",
+    "chapter": "robot-perception",
+    "url_path": "robot-perception/types-of-sensors"
+  }
+]

@@ -1,0 +1,5 @@
+Effective language interaction must consider:
+- **Spatial Context**: Where objects and people are located
+- **Temporal Context**: What has happened previously in the interaction
+- **Task Context**: What activity the human and robot are engaged in
+- **Social Context**: Cultural norms and relationship between human and robot

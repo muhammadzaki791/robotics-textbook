@@ -1,0 +1,11 @@
+Inertial Measurement Units (IMUs)
+
+IMUs typically combine accelerometers, gyroscopes, and sometimes magnetometers:
+
+**Accelerometers**: Measure linear acceleration along three axes. Used for detecting gravity (for orientation relative to ground) and linear motion.
+
+**Gyroscopes**: Measure angular velocity around three axes. Used for detecting rotation and maintaining orientation.
+
+**Magnetometers**: Measure magnetic field, providing absolute orientation relative to magnetic north.
+
+For humanoid robots, IMUs are crucial for balance control and motion estimation.

@@ -1,0 +1,7 @@
+Humanoid-Specific SLAM Considerations
+
+**Multi-Modal Mapping**: Include information about traversability, not just geometry.
+
+**Dynamic Objects**: Handle moving objects in the environment.
+
+**Long-Term Operation**: Maintain and update maps over extended periods.

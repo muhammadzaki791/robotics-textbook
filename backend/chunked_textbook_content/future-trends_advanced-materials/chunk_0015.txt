@@ -1,0 +1,4 @@
+**Microfabrication**: Precision manufacturing at micro scales.
+- **MEMS Integration**: Micro-electromechanical systems for sensing and actuation
+- **Miniaturization**: Smaller, more precise robotic components
+- **Cost Reduction**: Mass production of micro components

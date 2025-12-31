@@ -1,0 +1,4 @@
+**Non-Invasive Interfaces**: Sensors on the scalp or near the brain.
+- **EEG-Based**: Electroencephalography for brain activity
+- **fNIRS**: Functional near-infrared spectroscopy
+- **M/EEG**: Magnetic/electroencephalography combination

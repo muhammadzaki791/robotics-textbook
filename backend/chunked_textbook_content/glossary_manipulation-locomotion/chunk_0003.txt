@@ -1,0 +1,1 @@
+**Force Closure**: A grasp configuration where the contact forces can resist any external wrench applied to the object. **Gait Adaptation**: The ability to modify walking patterns in response to environmental changes or disturbances.

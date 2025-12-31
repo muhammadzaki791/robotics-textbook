@@ -1,0 +1,4 @@
+**Motor Imagery**: Using thoughts of movement to control robots.
+- **Training**: Learning to generate specific neural patterns
+- **Classification**: Recognizing intended movements from brain signals
+- **Applications**: Control of prosthetic limbs and robots

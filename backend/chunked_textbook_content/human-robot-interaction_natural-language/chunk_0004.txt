@@ -1,0 +1,4 @@
+Modern speech recognition systems convert human speech to text:
+- **Acoustic Models**: Map audio signals to phonemes
+- **Language Models**: Determine the most likely word sequence
+- **Context Models**: Use context to improve recognition accuracy

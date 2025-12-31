@@ -1,0 +1,6 @@
+Example 2: Walking on Uneven Terrain
+When a humanoid robot walks on uneven ground:
+- **Perception**: Vision and force sensors detect terrain variations
+- **Planning**: Adjust step location and height based on terrain
+- **Control**: Modify joint trajectories to accommodate terrain changes
+- **Adaptation**: Learn from previous steps to improve future performance

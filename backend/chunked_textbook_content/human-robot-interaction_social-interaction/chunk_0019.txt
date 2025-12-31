@@ -1,0 +1,4 @@
+Humanoid robots can combine multiple interaction modalities naturally:
+- **Co-speech Gestures**: Hand movements that accompany speech
+- **Embodied Language**: Using the body to support verbal communication
+- **Contextual Awareness**: Understanding interaction in the context of the physical environment

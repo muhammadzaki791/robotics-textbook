@@ -1,0 +1,7 @@
+Why Humanoid Form?
+
+**Human-Centric Environments**: Our world is designed for humans. Door handles, stairs, vehicles, and tools are all optimized for human use. A humanoid robot can potentially use these same interfaces without requiring special adaptations.
+
+**Social Interaction**: Humans are naturally attuned to human-like forms and behaviors. A humanoid robot can leverage our social instincts for more intuitive interaction.
+
+**General Task Capability**: Humanoid form provides versatility. Two arms with hands can manipulate many objects, legs can navigate various terrains, and a head with sensors can perceive the environment from a human perspective.

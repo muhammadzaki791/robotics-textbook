@@ -1,0 +1,23 @@
+{
+  "summary": {
+    "total_documents": 68,
+    "total_chunks": 862,
+    "avg_chunks_per_document": 12.676470588235293,
+    "total_tokens": 37062,
+    "chunk_size": 512,
+    "overlap_size": 51
+  },
+  "validation": {
+    "total_chunks": 862,
+    "avg_token_count": 42.9953596287703,
+    "max_token_count": 512,
+    "min_token_count": 3,
+    "total_tokens": 37062,
+    "chunks_exceeding_limit": 0,
+    "total_documents": 68,
+    "avg_chunks_per_document": 12.676470588235293,
+    "tiny_chunks": 638,
+    "tiny_chunks_percentage": 74.0139211136891,
+    "large_chunks": 0
+  }
+}

@@ -1,0 +1,2 @@
+**Reinforcement Learning**: Learning through interaction with the environment via rewards
+- Applications: Control policies, manipulation skills, navigation strategies

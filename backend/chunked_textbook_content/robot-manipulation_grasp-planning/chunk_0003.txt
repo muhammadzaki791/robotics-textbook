@@ -1,0 +1,7 @@
+Grasp Taxonomies
+
+**Power Grasps**: Provide secure, stable grasps with high load capacity. The object is held firmly against the palm with fingers wrapped around it. Good for heavy objects or when precise control isn't needed.
+
+**Precision Grasps**: Use fingertips to hold objects with fine control. The object is not in contact with the palm. Good for delicate tasks requiring fine manipulation.
+
+**Pinch Grasps**: Use thumb and one or two fingers to grasp objects. A subset of precision grasps.

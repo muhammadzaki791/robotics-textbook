@@ -1,0 +1,7 @@
+Vision Systems
+
+**Camera Placement**: For optimal field of view and stereo vision.
+
+**Protection**: Dust, moisture, and impact protection.
+
+**Calibration**: Maintaining accurate extrinsic and intrinsic parameters.

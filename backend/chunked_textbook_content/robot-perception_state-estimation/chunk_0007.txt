@@ -1,0 +1,2 @@
+1. **Prediction Step**: Predict the state based on motion model and control inputs
+2. **Update Step**: Correct the prediction using sensor measurements

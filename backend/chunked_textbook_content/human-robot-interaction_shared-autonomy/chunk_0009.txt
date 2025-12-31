@@ -1,0 +1,7 @@
+Implementation Approaches
+
+**Authority-Sharing**: Both human and robot can control the same aspects of the robot's behavior, with arbitration mechanisms to resolve conflicts.
+
+**Authority-Alternation**: Control switches between human and robot based on context or explicit commands.
+
+**Complementary Control**: Human and robot control different aspects of the robot's behavior simultaneously.

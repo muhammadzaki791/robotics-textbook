@@ -1,0 +1,16 @@
+
+
+The Kalman filter maintains a state estimate and its uncertainty (represented as a covariance matrix). It optimally combines predictions and measurements based on their respective uncertainties.
+
+**Mathematical Formulation**:
+
+State prediction: `x̂ₖ|ₖ₋₁ = Fₖx̂ₖ₋₁|ₖ₋₁ + Bₖuₖ`
+
+Covariance prediction: `Pₖ|ₖ₋₁ = FₖPₖ₋₁|ₖ₋₁Fₖᵀ + Qₖ`
+
+Kalman gain: `Kₖ = Pₖ|ₖ₋₁Hₖᵀ(HₖPₖ|ₖ₋₁Hₖᵀ + Rₖ)⁻¹`
+
+State update: `x̂ₖ|ₖ = x̂ₖ|ₖ₋₁ + Kₖ(zₖ - Hₖx̂ₖ|ₖ₋₁)`
+
+Covariance update: `Pₖ|ₖ = (I - KₖHₖ)Pₖ|ₖ₋₁`
+

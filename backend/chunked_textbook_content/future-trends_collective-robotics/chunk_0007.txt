@@ -1,0 +1,4 @@
+**Coordination**: Multiple robots working together.
+- **Consensus Algorithms**: Reaching agreement without central control
+- **Task Allocation**: Distributing work among robots
+- **Formation Control**: Maintaining desired group configurations

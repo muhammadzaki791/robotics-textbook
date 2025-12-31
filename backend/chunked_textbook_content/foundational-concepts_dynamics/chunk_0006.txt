@@ -1,0 +1,3 @@
+
+
+The rotational equivalent of F = ma is: τ = Iα

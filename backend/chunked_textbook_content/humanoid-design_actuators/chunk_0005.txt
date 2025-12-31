@@ -1,0 +1,3 @@
+
+
+**Control**: Typically use PID controllers for position, velocity, or torque control.

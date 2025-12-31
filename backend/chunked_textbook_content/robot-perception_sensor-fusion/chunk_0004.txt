@@ -1,0 +1,5 @@
+No single sensor provides complete information about the environment:
+- Cameras provide rich visual information but lack depth (for monocular cameras)
+- LiDAR provides accurate depth but limited visual detail
+- IMUs provide orientation but suffer from drift over time
+- Joint encoders provide precise joint angles but no environmental information

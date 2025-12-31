@@ -1,0 +1,5 @@
+Cartesian Coordinate Systems
+
+The most common coordinate system in robotics is the 3D Cartesian coordinate system, which uses three perpendicular axes (x, y, z) to specify positions in space. Each point in space can be represented as a set of three coordinates (x, y, z).
+
+For example, if we have a robot arm in a room, we might define the origin (0, 0, 0) at the base of the robot, with the x-axis pointing forward, the y-axis pointing left, and the z-axis pointing up.

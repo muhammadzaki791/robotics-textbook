@@ -1,0 +1,4 @@
+**Mixed Groups**: Humans working with robot swarms.
+- **Supervision**: Managing large numbers of robots
+- **Communication**: Effective interfaces for swarm control
+- **Trust**: Ensuring reliable swarm behavior

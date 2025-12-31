@@ -1,0 +1,4 @@
+Learn the real robot's parameters to improve simulation accuracy:
+- Mass, friction, and other physical parameters
+- Actuator dynamics and delays
+- Sensor characteristics

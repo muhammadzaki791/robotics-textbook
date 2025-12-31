@@ -1,0 +1,3 @@
+Exteroceptive Sensors
+
+Exteroceptive sensors perceive the external environment. These sensors provide information about the robot's surroundings, objects in the environment, and other agents.

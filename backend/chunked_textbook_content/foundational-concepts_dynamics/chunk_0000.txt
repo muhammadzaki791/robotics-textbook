@@ -1,0 +1,5 @@
+---
+title: Dynamics - Forces and Motion
+sidebar_position: 4
+description: Understanding the forces and torques required for robotic motion and control.
+---

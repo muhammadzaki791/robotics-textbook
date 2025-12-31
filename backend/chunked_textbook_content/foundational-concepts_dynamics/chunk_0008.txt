@@ -1,0 +1,15 @@
+The Lagrangian Approach
+
+For complex robotic systems, the Lagrangian approach is often more convenient than Newton's laws. The Lagrangian L is defined as:
+
+L = T - V
+
+Where T is the kinetic energy and V is the potential energy of the system.
+
+Using the Lagrangian, we can derive the equations of motion using the Euler-Lagrange equation:
+
+```
+d/dt(∂L/∂q̇ᵢ) - ∂L/∂qᵢ = τᵢ
+```
+
+Where qᵢ are the generalized coordinates (joint angles), q̇ᵢ are the generalized velocities (joint velocities), and τᵢ are the generalized forces (joint torques).

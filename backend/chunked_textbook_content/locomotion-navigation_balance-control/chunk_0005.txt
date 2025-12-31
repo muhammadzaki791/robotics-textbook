@@ -1,0 +1,5 @@
+Feedforward Control
+
+**Trajectory Generation**: Pre-compute stable walking patterns based on ZMP or centroidal dynamics.
+
+**Preview Control**: Use knowledge of future steps to improve current control.

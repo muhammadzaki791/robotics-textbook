@@ -1,0 +1,8 @@
+
+
+This can be formulated as a constrained optimization problem:
+
+```
+minimize ||J₁θ̇ - ẋ₁_desired||² + λ₂||J₂θ̇ - ẋ₂_desired||² + ...
+subject to joint limits and other constraints
+```

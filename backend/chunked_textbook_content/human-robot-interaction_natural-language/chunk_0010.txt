@@ -1,0 +1,4 @@
+Robots must generate appropriate responses:
+- **Content Planning**: Decide what information to include
+- **Surface Realization**: Convert meaning to grammatically correct text
+- **Speech Synthesis**: Convert text to natural-sounding speech

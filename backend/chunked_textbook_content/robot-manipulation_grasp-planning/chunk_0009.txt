@@ -1,0 +1,9 @@
+Multi-Fingered Hand Control
+
+Controlling multi-fingered hands requires coordinating multiple joints to achieve desired contact forces:
+
+**Grasp Force Optimization**: Distribute forces among contact points to maintain grasp stability while minimizing total force.
+
+**Impedance Control**: Control the mechanical impedance of the hand to achieve desired compliance during grasping.
+
+**Synergy-Based Control**: Use coordinated patterns of finger movement that mimic human hand synergies.

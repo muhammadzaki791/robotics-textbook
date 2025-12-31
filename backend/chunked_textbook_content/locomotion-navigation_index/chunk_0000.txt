@@ -1,0 +1,5 @@
+---
+title: Locomotion and Navigation for Humanoids
+sidebar_position: 1
+description: Principles of bipedal locomotion, balance control, gait generation, and navigation strategies for humanoid robots in complex environments.
+---

@@ -1,0 +1,8 @@
+Example 1: 2-Link Robot Arm
+Consider a simple 2-link robot arm with link lengths L₁ = 5 units and L₂ = 3 units. If joint angles are θ₁ = 30° and θ₂ = 45°, what is the position of the end-effector?
+
+**Solution:**
+First, convert angles to radians: θ₁ = π/6, θ₂ = π/4
+Then calculate:
+x = 5 * cos(π/6) + 3 * cos(π/6 + π/4) = 5 * 0.866 + 3 * cos(5π/12) ≈ 4.33 + 0.776 = 5.106
+y = 5 * sin(π/6) + 3 * sin(π/6 + π/4) = 5 * 0.5 + 3 * sin(5π/12) ≈ 2.5 + 2.898 = 5.398

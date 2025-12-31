@@ -1,0 +1,11 @@
+Exercises
+
+1. **MDP Formulation**: Formulate the problem of a humanoid robot learning to stand up from a seated position as an MDP. Define the states, actions, rewards, and transition probabilities.
+
+2. **Algorithm Selection**: For a robot learning to navigate through a cluttered environment, which RL algorithm would be most appropriate? Consider factors like continuous action space, safety requirements, and sample efficiency.
+
+3. **Reward Engineering**: Design a reward function for a humanoid robot learning to walk. What components would you include to encourage stable, efficient, and human-like walking?
+
+4. **Simulation to Real Transfer**: Explain the "reality gap" problem in robotic RL. What techniques can be used to improve the transfer of policies from simulation to real robots?
+
+5. **Safety Considerations**: How would you modify the standard RL framework to ensure safety during learning for a physical humanoid robot? What constraints would you add?

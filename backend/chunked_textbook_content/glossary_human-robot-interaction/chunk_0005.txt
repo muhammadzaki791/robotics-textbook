@@ -1,0 +1,23 @@
+ respecting social norms and avoiding disruption.
+
+**Social Presence**: The degree to which a robot is perceived as a real social actor rather than just a machine.
+
+**Social Robotics**: A field of robotics that focuses on creating robots that can interact with humans in socially meaningful ways.
+
+**Socio-Emotional Behavior**: Robot behaviors that address human social and emotional needs during interaction.
+
+**Synchronous Interaction**: Interaction where humans and robots engage simultaneously in real-time, as opposed to asynchronous communication.
+
+**Turn-Taking**: The social mechanism for managing conversation and interaction flow between humans and robots.
+
+**User Experience (UX)**: The overall experience of a person using a robot system, including emotions, beliefs, preferences, and responses.
+
+**User Trust**: The confidence that users have in a robot's reliability, safety, and ability to perform as expected.
+
+**Verbal Communication**: Communication through spoken language between humans and robots, requiring speech recognition and synthesis.
+
+**Voice Interaction**: Communication through spoken language, including the robot's ability to recognize speech and generate appropriate responses.
+
+**Vulnerability**: The degree to which humans are willing to rely on and be affected by robot actions, related to trust and safety.
+
+**Zero-Order Intentionality**: The ability of robots to understand that humans have beliefs, desires, and intentions that may differ from their own.

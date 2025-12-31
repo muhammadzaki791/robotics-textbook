@@ -1,0 +1,9 @@
+Anthropomorphic Design
+
+The human-like form of humanoid robots creates specific interaction dynamics:
+
+**Theory of Mind**: Humans may attribute mental states to humanoid robots, expecting them to understand and reason about the world.
+
+**Social Categorization**: Humans may categorize humanoid robots as social agents rather than tools, affecting expectations for interaction.
+
+**Uncanny Valley**: When robots look almost but not quite human, they can evoke negative emotional responses.

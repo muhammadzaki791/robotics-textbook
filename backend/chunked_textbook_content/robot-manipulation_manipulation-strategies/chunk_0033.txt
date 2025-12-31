@@ -1,0 +1,5 @@
+Recent advances in machine learning have enabled:
+- Grasp detection from visual input
+- Learning from demonstration
+- Reinforcement learning for manipulation skills
+- Simulation-to-real transfer

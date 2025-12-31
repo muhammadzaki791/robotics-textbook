@@ -1,0 +1,7 @@
+Pattern Generators
+
+**Central Pattern Generators (CPGs)**: Neural network models that generate rhythmic patterns for walking.
+
+**Coupled Oscillators**: Mathematical models that create coordinated rhythmic motion.
+
+**Fourier Series**: Represent periodic gait patterns as sums of sinusoids.

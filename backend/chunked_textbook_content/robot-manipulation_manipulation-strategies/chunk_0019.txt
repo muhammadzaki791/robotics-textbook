@@ -1,0 +1,9 @@
+Types of End-Effectors
+
+**Parallel Jaw Grippers**: Simple, reliable, good for objects with graspable features.
+
+**Three-Finger Grippers**: More dexterous than parallel jaw grippers, can grasp objects with various shapes.
+
+**Multi-Fingered Hands**: Most dexterous, can perform both power and precision grasps.
+
+**Specialized Tools**: Vacuum grippers, magnetic grippers, etc., for specific applications.

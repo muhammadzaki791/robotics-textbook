@@ -1,0 +1,4 @@
+Redundancy Resolution
+
+Humanoid robots often have redundant manipulator chains (more degrees of freedom than required for a task). This redundancy can be used to optimize secondary objectives like:
+

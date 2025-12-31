@@ -1,0 +1,5 @@
+---
+title: Sensor Integration
+sidebar_position: 5
+description: Understanding the integration of various sensors in humanoid robot design including IMUs, force sensors, and vision systems.
+---

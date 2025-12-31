@@ -1,0 +1,5 @@
+Where:
+- M(q) is the mass matrix (depends on configuration)
+- C(q, q̇)q̇ represents Coriolis and centrifugal forces
+- g(q) represents gravitational forces
+- τ represents applied joint torques

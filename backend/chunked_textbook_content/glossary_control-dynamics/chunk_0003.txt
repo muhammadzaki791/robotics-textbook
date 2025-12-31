@@ -1,0 +1,1 @@
+**Point-to-Point Control**: A simple control strategy that moves the robot from one configuration to another without specifying the intermediate trajectory. **Proportional-Derivative (PD) Control**: A simplified form of PID control without the integral term, often sufficient for many robotic applications.

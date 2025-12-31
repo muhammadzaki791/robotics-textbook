@@ -1,0 +1,4 @@
+For humanoid robots, inverse kinematics is crucial for tasks like:
+- Reaching for objects
+- Walking with specific foot placements
+- Maintaining balance while moving arms

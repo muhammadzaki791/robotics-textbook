@@ -1,0 +1,5 @@
+
+
+# Inverse Kinematics for End-Effector Control
+
+Inverse kinematics (IK) is fundamental to manipulation, as it determines the joint angles needed to position the end-effector at a desired location and orientation.

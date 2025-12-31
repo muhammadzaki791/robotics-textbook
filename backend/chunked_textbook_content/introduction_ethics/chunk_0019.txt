@@ -1,0 +1,7 @@
+Exercises
+
+1. **Research Exercise**: Find three examples of humanoid robots currently in development or deployment. Compare their designs and intended applications. What human-like features do they share, and what makes each unique?
+
+2. **Design Thinking**: If you were to design a humanoid robot for a specific task (e.g., helping in a kitchen, assisting in a library, or working in a factory), what human-like features would be most important? Which could be simplified or omitted?
+
+3. **Ethics Discussion**: Consider a humanoid robot designed to provide companionship for elderly individuals. What ethical considerations should designers address? How might such robots affect human relationships and social structures?

@@ -1,0 +1,3 @@
+Grid-Based Planning
+
+Represent the environment as a grid and use search algorithms (A*, Dijkstra's) to find feasible footstep locations.

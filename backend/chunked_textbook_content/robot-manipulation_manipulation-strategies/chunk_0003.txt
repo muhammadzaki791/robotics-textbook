@@ -1,0 +1,7 @@
+Prehensile vs. Non-Prehensile Manipulation
+
+**Prehensile**: Involves grasping objects (picking them up).
+
+**Non-Prehensile**: Manipulates objects without grasping (pushing, sliding, rolling).
+
+Non-prehensile manipulation can be more robust and energy-efficient for certain tasks.

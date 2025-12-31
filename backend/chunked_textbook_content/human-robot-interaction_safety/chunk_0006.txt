@@ -1,0 +1,7 @@
+Safety Standards
+
+**ISO 15066**: Specific safety requirements for collaborative robots working alongside humans.
+
+**ISO 13482**: Safety standards for personal care robots, including humanoid service robots.
+
+**ISO 10218**: Safety requirements for industrial robots (relevant for some HRI scenarios).

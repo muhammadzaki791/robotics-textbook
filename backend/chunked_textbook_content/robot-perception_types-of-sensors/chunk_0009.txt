@@ -1,0 +1,4 @@
+**Advantages**:
+- High accuracy in distance measurement
+- Works in various lighting conditions
+- Provides 3D spatial information directly

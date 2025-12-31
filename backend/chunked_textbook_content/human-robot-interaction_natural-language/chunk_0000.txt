@@ -1,0 +1,5 @@
+---
+title: Natural Language Interaction
+sidebar_position: 5
+description: Understanding speech recognition, language processing, and generation for human-robot communication.
+---

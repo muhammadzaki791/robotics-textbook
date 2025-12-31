@@ -1,0 +1,4 @@
+For rotating objects, we have analogous equations:
+- Torque (τ) is analogous to force
+- Angular acceleration (α) is analogous to linear acceleration
+- Moment of inertia (I) is analogous to mass

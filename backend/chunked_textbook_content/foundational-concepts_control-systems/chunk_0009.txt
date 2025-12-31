@@ -1,0 +1,4 @@
+PID Tuning for Robotics
+
+Tuning PID parameters for robotic systems requires understanding the system dynamics:
+

@@ -1,0 +1,4 @@
+**Role Evolution**: How robot roles will evolve over time.
+- **From Tools to Partners**: Evolving relationship dynamics
+- **Social Roles**: Robots taking on social roles in human society
+- **Ethical Evolution**: Evolving ethical frameworks for human-robot interaction

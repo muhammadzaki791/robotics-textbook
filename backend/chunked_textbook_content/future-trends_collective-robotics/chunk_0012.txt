@@ -1,0 +1,4 @@
+**Bio-Hybrid Systems**: Combining biological and artificial agents.
+- **Animal-Robot Interaction**: Robots working with animals
+- **Human-Robot Groups**: Mixed human-robot teams
+- **Applications**: Search and rescue, environmental monitoring

@@ -1,0 +1,7 @@
+Grasp Planning Algorithms
+
+**Antipodal Grasps**: Find pairs of contact points where the robot can apply opposing forces.
+
+**Virtual Linkage Method**: Model the grasp as a mechanical linkage to analyze stability.
+
+**Region-Based Grasps**: Identify stable grasp regions on object surfaces.

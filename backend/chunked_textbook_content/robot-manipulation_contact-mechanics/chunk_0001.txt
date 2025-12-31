@@ -1,0 +1,5 @@
+
+
+# Contact Mechanics and Force Control
+
+Understanding contact mechanics is crucial for stable grasping and safe manipulation.

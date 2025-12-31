@@ -1,0 +1,5 @@
+Integrated tactile sensors provide feedback about:
+- Contact detection
+- Force distribution
+- Object properties (texture, compliance)
+- Slip detection

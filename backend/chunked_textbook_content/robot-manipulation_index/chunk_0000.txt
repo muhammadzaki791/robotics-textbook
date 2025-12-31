@@ -1,0 +1,5 @@
+---
+title: Robot Manipulation and Grasping
+sidebar_position: 1
+description: Algorithms and strategies for robotic manipulation, including inverse kinematics for end-effectors, grasp planning, and compliant manipulation techniques.
+---

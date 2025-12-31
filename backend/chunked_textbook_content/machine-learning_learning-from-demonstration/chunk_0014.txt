@@ -1,0 +1,10 @@
+Dynamic Movement Primitives (DMPs)
+
+DMPs represent movements as dynamical systems:
+```
+τ ẋ = ax(bx - x) + (bx - x0) * f(s) / s
+τ ṡ = -as * s
+```
+
+Where x is the movement, s is a phase variable, and f(s) represents the learned forcing function.
+

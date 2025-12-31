@@ -1,0 +1,4 @@
+Multiple Task Optimization
+
+For humanoid robots, multiple tasks often need to be satisfied simultaneously:
+

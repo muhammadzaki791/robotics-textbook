@@ -1,0 +1,7 @@
+Sensory Systems
+
+**Human Vision**: Camera systems designed to mimic human visual capabilities.
+
+**Balance Systems**: Mimicking the human vestibular system.
+
+**Tactile Sensing**: Bio-inspired tactile sensor arrays.

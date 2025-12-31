@@ -1,0 +1,5 @@
+---
+title: Advanced Materials and Manufacturing
+sidebar_position: 2
+description: Exploring smart materials, bio-inspired materials, and advanced manufacturing techniques for future robotics.
+---

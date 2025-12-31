@@ -1,0 +1,4 @@
+**Autonomous Development**: Robots that develop capabilities over time.
+- **Developmental Learning**: Learning in stages like biological development
+- **Curriculum Learning**: Progressing from simple to complex tasks
+- **Social Learning**: Learning from other robots and humans

@@ -1,0 +1,4 @@
+**Evolutionary Robotics**: Robots that evolve their capabilities.
+- **Morphological Evolution**: Changing physical structure over time
+- **Behavioral Evolution**: Evolving better behaviors through selection
+- **Applications**: Adapting to unknown environments

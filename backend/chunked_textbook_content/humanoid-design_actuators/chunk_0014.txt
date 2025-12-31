@@ -1,0 +1,3 @@
+**Cycloidal Drives**: High torque density, backlash-free.
+- Advantages: High torque, zero backlash, compact
+- Disadvantages: Complex, expensive

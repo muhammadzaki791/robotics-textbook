@@ -1,0 +1,4 @@
+- Cheng, F., et al. (2020). "A Survey of Humanoid Control". *IEEE Transactions on Robotics*.
+- Pfeifer, R., & Bongard, J. (2006). *How the Body Shapes the Way We Think: A New View of Intelligence*. MIT Press.
+- Siciliano, B., & Khatib, O. (2016). *Springer Handbook of Robotics* (2nd ed.). Springer.
+- IEEE Robotics and Automation Society. (2023). "Ethical Standards for Humanoid Robots". *IEEE Robotics & Automation Magazine*.

@@ -1,0 +1,6 @@
+By the end of this chapter, you will be able to:
+- Understand the principles of robotic manipulation and grasping
+- Apply inverse kinematics to position robot end-effectors
+- Explain different grasp taxonomies and planning approaches
+- Describe force control and contact mechanics in manipulation
+- Design manipulation strategies for humanoid robots

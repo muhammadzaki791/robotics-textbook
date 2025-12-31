@@ -1,0 +1,7 @@
+Trajectory Optimization
+
+Gait generation can be formulated as an optimization problem:
+```
+minimize: ∫(energy_cost + stability_cost + smoothness_cost) dt
+subject to: dynamics_constraints, joint_limits, contact_constraints
+```

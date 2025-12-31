@@ -1,0 +1,4 @@
+**Invasive Interfaces**: Electrodes implanted directly in neural tissue.
+- **High Resolution**: Detailed neural activity recording
+- **Applications**: Direct control of robotic limbs
+- **Risks**: Surgical risks, long-term stability concerns

@@ -1,0 +1,3 @@
+The Reality Gap Problem
+
+Training robots in simulation is much safer and more efficient than training on physical robots, but policies learned in simulation often don't transfer to the real world due to differences between simulation and reality.

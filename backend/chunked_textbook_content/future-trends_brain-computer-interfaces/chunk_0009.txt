@@ -1,0 +1,4 @@
+**Neurofeedback**: Using robot performance to train neural control.
+- **Adaptive Training**: Adjusting difficulty based on performance
+- **Skill Transfer**: Improving both neural control and robot performance
+- **Applications**: Rehabilitation and skill acquisition

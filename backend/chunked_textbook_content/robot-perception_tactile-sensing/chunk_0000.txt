@@ -1,0 +1,5 @@
+---
+title: Tactile Sensing and Haptics
+sidebar_position: 6
+description: Understanding tactile sensors and haptic feedback systems for robotic manipulation and interaction.
+---

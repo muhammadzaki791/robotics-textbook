@@ -1,0 +1,5 @@
+- Physical AI as AI systems that interact with the physical world through robotic bodies
+- The unique characteristics and challenges of humanoid robotics
+- The historical development from ancient automata to modern robots
+- Current applications and future possibilities
+- Important ethical considerations as the field advances

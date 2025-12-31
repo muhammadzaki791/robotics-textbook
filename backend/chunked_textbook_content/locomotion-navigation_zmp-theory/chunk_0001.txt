@@ -1,0 +1,5 @@
+
+
+# Zero Moment Point (ZMP) Theory
+
+The Zero Moment Point is a fundamental concept in bipedal robotics that provides a simplified approach to balance control.

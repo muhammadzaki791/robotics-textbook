@@ -1,0 +1,4 @@
+- End-effector reaching task
+- Balance maintenance
+- Obstacle avoidance
+- Joint limit avoidance

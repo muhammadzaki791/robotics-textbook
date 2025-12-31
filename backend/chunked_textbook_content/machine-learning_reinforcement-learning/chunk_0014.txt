@@ -1,0 +1,3 @@
+**Policy Gradient Methods**:
+- REINFORCE, TRPO, PPO for continuous action spaces
+- Actor-critic methods like A3C, A2C

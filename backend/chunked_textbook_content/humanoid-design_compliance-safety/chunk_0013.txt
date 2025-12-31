@@ -1,0 +1,7 @@
+Weight vs. Strength
+
+**Materials**: Choosing materials that optimize the weight-strength trade-off.
+
+**Structural Design**: Using structural principles to maximize strength while minimizing weight.
+
+**Component Integration**: Combining functions to reduce overall component count.

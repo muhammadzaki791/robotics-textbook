@@ -1,0 +1,5 @@
+---
+title: Computer Vision for Robotics
+sidebar_position: 5
+description: Understanding visual perception techniques for robotic systems including feature detection, SLAM, and deep learning approaches.
+---

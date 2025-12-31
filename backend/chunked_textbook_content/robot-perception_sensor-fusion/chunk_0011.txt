@@ -1,0 +1,3 @@
+Decision-Level Fusion
+
+Make decisions based on each sensor independently, then combine the decisions. For example, separate object detection systems for vision and LiDAR, with final detection based on both.

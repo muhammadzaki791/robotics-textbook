@@ -1,0 +1,3 @@
+Definition and Importance
+
+Shared autonomy refers to systems where control is distributed between humans and robots, with each contributing their strengths to achieve a common goal. This approach leverages human cognitive abilities (understanding context, making high-level decisions) with robotic capabilities (precision, endurance, sensor processing).

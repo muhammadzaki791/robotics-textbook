@@ -1,0 +1,12 @@
+
+
+We can calculate the end-effector position (x, y) using trigonometry:
+
+```
+x = L₁ * cos(θ₁) + L₂ * cos(θ₁ + θ₂)
+y = L₁ * sin(θ₁) + L₂ * sin(θ₁ + θ₂)
+```
+
+For more complex robots, including humanoid robots with many joints, forward kinematics involves multiplying a series of transformation matrices, one for each joint.
+
+**Application to Humanoid Robots**: Forward kinematics is essential for humanoid robots to understand where their hands, feet, and other body parts are located in space based on their joint angles.

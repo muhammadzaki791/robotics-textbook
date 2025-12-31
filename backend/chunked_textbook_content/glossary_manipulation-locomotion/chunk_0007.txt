@@ -1,0 +1,17 @@
+
+
+**Torque Control**: Control of the rotational forces applied by the robot's joints.
+
+**Trajectory Following**: The ability to follow a planned path with specified timing and accuracy.
+
+**Under-Grip Grasp**: A grasp where the fingers support the object from below, often used for lifting.
+
+**Variable Impedance**: The ability to change the mechanical impedance of robot joints during tasks.
+
+**Visual-Guided Manipulation**: Manipulation tasks that use visual feedback for precise positioning and control.
+
+**Walking Stability**: The ability to maintain balance during the walking process, preventing falls.
+
+**Whole-Body Control**: Control strategies that coordinate all of the robot's joints for manipulation or locomotion tasks.
+
+**Wrench**: A 6-dimensional vector representing forces and torques applied to an object, used in grasp analysis.

@@ -1,0 +1,4 @@
+- Avoiding joint limits
+- Maintaining manipulability
+- Avoiding obstacles
+- Maintaining balance for the whole robot

@@ -1,0 +1,4 @@
+Randomize simulation parameters to make policies robust:
+- Object textures, lighting, friction coefficients
+- Robot dynamics, sensor noise
+- Environmental conditions

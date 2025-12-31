@@ -1,0 +1,11 @@
+Definition and Physics
+
+The ZMP is the point on the ground where the net moment (torque) of the inertial and gravitational forces acting on the robot is zero. In simpler terms, it's the point where all the forces acting on the robot appear to be applied.
+
+Mathematically, for a robot with center of mass at (x_com, y_com, z_com):
+```
+x_zmp = x_com - (z_com - z_support) * ẍ_com / g
+y_zmp = y_com - (z_com - z_support) * ÿ_com / g
+```
+
+Where g is gravitational acceleration and z_support is the height of the support surface.

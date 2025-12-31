@@ -1,0 +1,7 @@
+Predictive Models
+
+**Behavioral Models**: Statistical models of how humans typically behave in specific situations.
+
+**Cognitive Models**: Models based on human psychology and decision-making processes.
+
+**Social Models**: Models that consider social context and norms in predicting behavior.

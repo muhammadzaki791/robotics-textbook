@@ -1,0 +1,5 @@
+---
+title: Deep Learning for Robotic Perception
+sidebar_position: 5
+description: Understanding CNNs, RNNs, and other deep learning techniques for robot perception.
+---

@@ -1,0 +1,7 @@
+Traditional Ethical Approaches
+
+**Deontological Ethics**: Based on rules and duties. In robotics, this might translate to absolute rules like "robots must not harm humans."
+
+**Consequentialism**: Actions are judged by their outcomes. A robot's behavior is evaluated based on the consequences of its actions.
+
+**Virtue Ethics**: Focuses on character and moral virtues. How can robots embody beneficial characteristics?

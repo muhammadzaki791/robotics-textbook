@@ -1,0 +1,5 @@
+- **Partially observable**: Sensors only capture part of the environment
+- **Stochastic**: Outcomes of actions are uncertain
+- **Continuous**: Time and space are continuous, not discrete
+- **Dynamic**: The environment changes while the system is thinking
+- **Multi-agent**: Other agents (humans, other robots) are acting simultaneously

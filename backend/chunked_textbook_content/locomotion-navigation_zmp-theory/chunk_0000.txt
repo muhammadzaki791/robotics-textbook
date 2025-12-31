@@ -1,0 +1,5 @@
+---
+title: Zero Moment Point (ZMP) Theory
+sidebar_position: 3
+description: Understanding the ZMP concept and its application in bipedal robot balance control.
+---

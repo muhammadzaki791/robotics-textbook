@@ -1,0 +1,4 @@
+**Embodied Learning**: Learning through physical interaction.
+- **Motor Learning**: Learning movement skills through practice
+- **Physical Reasoning**: Understanding physics through interaction
+- **Environmental Learning**: Learning about the world through exploration

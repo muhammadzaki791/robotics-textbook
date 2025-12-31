@@ -1,0 +1,11 @@
+Applications in Humanoid Robotics
+
+State estimation is crucial for humanoid robots:
+
+**Balance Control**: Accurate estimation of center of mass and base orientation is essential for maintaining balance.
+
+**Localization**: Determining the robot's position in the environment for navigation.
+
+**SLAM (Simultaneous Localization and Mapping)**: Building a map while localizing in it—essential for autonomous navigation.
+
+**Motion Capture**: Estimating full-body pose for imitation learning or motion analysis.

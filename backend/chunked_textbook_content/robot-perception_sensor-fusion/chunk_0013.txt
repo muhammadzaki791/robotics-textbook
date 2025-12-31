@@ -1,0 +1,3 @@
+Kalman Filter-Based Fusion
+
+Kalman filters naturally handle multi-sensor fusion by treating each sensor as a different measurement of the same state.

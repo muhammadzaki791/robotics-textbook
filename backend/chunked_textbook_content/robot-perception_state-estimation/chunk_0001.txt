@@ -1,0 +1,5 @@
+
+
+# State Estimation
+
+State estimation is the process of determining the robot's state (position, orientation, velocity, etc.) from sensor measurements. Since sensors are noisy and sometimes fail, robots must estimate their state rather than rely on raw sensor readings.

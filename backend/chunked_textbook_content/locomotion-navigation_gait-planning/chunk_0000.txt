@@ -1,0 +1,5 @@
+---
+title: Gait Generation and Planning
+sidebar_position: 6
+description: Understanding trajectory optimization and pattern generation for humanoid walking.
+---

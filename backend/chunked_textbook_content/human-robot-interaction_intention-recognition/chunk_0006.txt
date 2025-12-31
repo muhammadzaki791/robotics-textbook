@@ -1,0 +1,4 @@
+**Visual Analysis**:
+- Eye gaze tracking to understand where human attention is focused
+- Gesture recognition to interpret communicative movements
+- Posture analysis to infer emotional state and intentions

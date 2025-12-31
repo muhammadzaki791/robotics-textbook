@@ -1,0 +1,10 @@
+Degrees of Freedom (DOF)
+
+The number and placement of joints significantly affect a robot's capabilities:
+
+**Minimal Configuration**: The minimum needed for basic humanoid functions (typically 20-30 DOF).
+
+**Human-Level DOF**: Matching human joint count and range (typically 60+ DOF).
+
+**Over-Actuation**: More DOF than human for enhanced capability or redundancy.
+

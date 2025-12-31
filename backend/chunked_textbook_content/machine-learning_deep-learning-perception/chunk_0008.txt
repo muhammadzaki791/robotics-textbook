@@ -1,0 +1,7 @@
+Recurrent Neural Networks (RNNs)
+
+RNNs handle sequential data important for robotics:
+
+**Time Series Prediction**: Predicting future states from sensor sequences
+**Action Recognition**: Recognizing human actions from video sequences
+**Trajectory Prediction**: Predicting future movements of objects or humans

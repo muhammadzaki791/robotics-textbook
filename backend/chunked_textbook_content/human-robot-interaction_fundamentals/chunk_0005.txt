@@ -1,0 +1,9 @@
+Key Principles of HRI
+
+**Predictability**: Humans should be able to predict robot behavior based on its actions and communication.
+
+**Transparency**: The robot should make its intentions and state clear to human users.
+
+**Appropriateness**: Robot behavior should be appropriate for the context and cultural setting.
+
+**Initiative**: Balance between robot initiative and human control based on the task and situation.

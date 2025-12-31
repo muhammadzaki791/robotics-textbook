@@ -1,0 +1,8 @@
+Dynamics of Multi-Body Systems
+
+Humanoid robots are complex multi-body systems where the motion of one part affects all others. The equations of motion for an n-degree-of-freedom robotic system can be written as:
+
+```
+M(q)q̈ + C(q, q̇)q̇ + g(q) = τ
+```
+

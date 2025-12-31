@@ -1,0 +1,3 @@
+ZMP Stability Criterion
+
+For stable locomotion, the ZMP must remain within the support polygon (the area under the feet). This provides a clear stability criterion that can be used in control design.

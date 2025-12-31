@@ -1,0 +1,3 @@
+**Physiological Signals**:
+- Heart rate, skin conductance to infer stress or arousal
+- Brain-computer interfaces for direct intention reading (emerging technology)

@@ -1,0 +1,6 @@
+Example 2: Bipedal Walking
+A humanoid robot learns to walk using RL:
+- **State**: Joint angles, joint velocities, IMU readings, foot contact sensors
+- **Action**: Desired joint torques or positions
+- **Reward**: Forward progress, stability, energy efficiency
+- **Algorithm**: Proximal Policy Optimization (PPO) with curriculum learning

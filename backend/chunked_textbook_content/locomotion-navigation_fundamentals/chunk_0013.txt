@@ -1,0 +1,11 @@
+Exercises
+
+1. **Stability Analysis**: For a bipedal robot with a 50cm step width, estimate the maximum lateral disturbance it can withstand without falling. What factors would influence this?
+
+2. **Gait Parameter Design**: Design a walking gait for a humanoid robot that needs to walk efficiently but also be stable. What step length, step width, and walking speed would you choose? Justify your choices.
+
+3. **Balance Strategy**: Compare ankle strategy, hip strategy, and stepping strategy for balance recovery. When would each be most appropriate?
+
+4. **Underactuation Challenge**: Explain why bipedal robots are underactuated during the single support phase. How does this affect controller design?
+
+5. **Energy Efficiency**: What are the main sources of energy loss in bipedal walking? How could they be minimized in a humanoid robot design?

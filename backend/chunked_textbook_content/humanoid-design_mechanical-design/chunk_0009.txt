@@ -1,0 +1,5 @@
+**Material Selection**: Lightweight yet strong materials are essential:
+- **Aluminum**: Good strength-to-weight ratio, easy to machine
+- **Carbon Fiber**: Excellent strength-to-weight, expensive
+- **Advanced Plastics**: For non-critical structural components
+- **Titanium**: High strength, corrosion resistance, expensive

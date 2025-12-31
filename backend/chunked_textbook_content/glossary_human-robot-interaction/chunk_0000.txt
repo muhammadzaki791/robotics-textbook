@@ -1,0 +1,5 @@
+---
+title: Human-Robot Interaction
+sidebar_position: 6
+description: Social and interaction concepts including communication, ethics, and collaborative behavior.
+---

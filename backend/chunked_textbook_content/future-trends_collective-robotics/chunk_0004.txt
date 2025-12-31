@@ -1,0 +1,4 @@
+**Emergent Behavior**: Complex group behavior from simple individual rules.
+- **Self-Organization**: Spontaneous formation of patterns
+- **Distributed Intelligence**: Intelligence emerging from interactions
+- **Scalability**: Performance scaling with group size

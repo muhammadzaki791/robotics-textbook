@@ -1,0 +1,3 @@
+Visibility Graphs
+
+Connect visible points in the environment to find collision-free paths for footsteps.

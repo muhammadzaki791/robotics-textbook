@@ -1,0 +1,4 @@
+Visual SLAM
+
+Visual SLAM (Simultaneous Localization and Mapping) allows robots to build maps and localize themselves using only visual information.
+

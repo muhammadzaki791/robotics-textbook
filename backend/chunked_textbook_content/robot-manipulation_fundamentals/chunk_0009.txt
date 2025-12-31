@@ -1,0 +1,8 @@
+Example 1: Pick-and-Place Operation
+Consider a robot arm performing a pick-and-place task in a factory:
+1. **Perception**: Vision system identifies object location and orientation
+2. **Planning**: Robot calculates approach trajectory to avoid collisions
+3. **Grasping**: Gripper moves to object, adjusts approach angle, and grasps firmly
+4. **Transport**: Arm moves object to target location while maintaining grasp
+5. **Release**: Object is placed at target location and gripper releases
+6. **Retraction**: Arm returns to home position

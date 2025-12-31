@@ -1,0 +1,12 @@
+Vision Systems (Cameras)
+
+Cameras are among the most important sensors for humanoid robots, providing rich visual information about the environment. There are several types of vision systems:
+
+**RGB Cameras**: Standard cameras that capture color images. These provide detailed visual information but lack depth information.
+
+**Stereo Cameras**: Two cameras positioned to mimic human eyes, allowing depth estimation through triangulation. Stereo vision enables robots to perceive 3D structure from 2D images.
+
+**RGB-D Cameras**: Combine color information with depth data, providing both visual appearance and 3D structure. The Microsoft Kinect and Intel RealSense are examples of RGB-D sensors.
+
+**Event Cameras**: A newer technology that captures changes in brightness rather than full frames, offering high temporal resolution and low latency for dynamic scenes.
+

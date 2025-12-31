@@ -1,0 +1,4 @@
+**Pneumatic Networks**: Networks of air chambers for complex movements.
+- **Fiber-Reinforced Actuators**: Combining soft materials with reinforcing fibers
+- **Braided Pneumatic Muscles**: Contractile actuators inspired by biological muscles
+- **Fluidic Elastomers**: Soft actuators using fluid pressure

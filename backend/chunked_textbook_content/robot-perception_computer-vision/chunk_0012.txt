@@ -1,0 +1,6 @@
+Example 1: Feature Matching for Object Recognition
+A humanoid robot needs to recognize a specific object (e.g., a red cup) in its environment. Using ORB feature detection, the robot can:
+1. Extract ORB features from a reference image of the cup
+2. Extract ORB features from the current camera image
+3. Match features between the two images
+4. Use geometric verification to confirm the object's presence and location

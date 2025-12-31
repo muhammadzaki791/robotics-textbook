@@ -1,0 +1,4 @@
+**Artificial Skin**: Materials that mimic the properties of human skin.
+- **Sensory Capabilities**: Pressure, temperature, and texture sensing
+- **Self-Healing**: Materials that repair themselves after damage
+- **Adaptability**: Changing properties based on environmental conditions

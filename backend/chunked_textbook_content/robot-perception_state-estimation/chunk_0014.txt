@@ -1,0 +1,8 @@
+**Algorithm**:
+1. Initialize particles randomly according to prior belief
+2. For each control input:
+   - Predict particle motion based on motion model
+   - Add noise to represent uncertainty
+3. For each measurement:
+   - Weight particles based on how well they match the measurement
+   - Resample particles based on their weights

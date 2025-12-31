@@ -1,0 +1,4 @@
+**Electroactive Polymers (EAPs)**: Polymers that change shape when stimulated by electric fields.
+- Applications: Soft actuators, artificial muscles, haptic interfaces
+- Advantages: Human-like compliance, large deformation capability
+- Challenges: High voltage requirements, limited durability, complex control

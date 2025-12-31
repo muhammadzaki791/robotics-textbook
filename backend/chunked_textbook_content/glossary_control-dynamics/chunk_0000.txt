@@ -1,0 +1,5 @@
+---
+title: Control and Dynamics
+sidebar_position: 3
+description: Control systems and dynamic behavior including PID control, stability, and dynamic modeling.
+---

@@ -1,0 +1,5 @@
+---
+title: Biomimicry in Design
+sidebar_position: 6
+description: Understanding how biological systems inspire humanoid robot design including anatomy, actuation, and locomotion principles.
+---

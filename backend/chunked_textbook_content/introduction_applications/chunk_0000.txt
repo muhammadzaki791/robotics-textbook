@@ -1,0 +1,5 @@
+---
+title: Current Applications and Future Potential
+sidebar_position: 5
+description: Exploring current applications of humanoid robots and their potential future uses.
+---

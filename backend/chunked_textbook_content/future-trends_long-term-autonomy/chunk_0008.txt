@@ -1,0 +1,4 @@
+**Adaptive Architecture**: Robots that can modify their own structure.
+- **Modular Robots**: Robots that can reconfigure themselves
+- **Self-Assembly**: Robots that can build themselves
+- **Self-Construction**: Robots that can build other robots

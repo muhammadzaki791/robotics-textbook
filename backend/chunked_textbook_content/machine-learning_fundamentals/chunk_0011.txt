@@ -1,0 +1,2 @@
+**Imitation Learning**: Learning by observing and mimicking expert demonstrations
+- Applications: Manipulation skills, locomotion patterns, human-like behaviors

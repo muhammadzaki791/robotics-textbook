@@ -1,0 +1,11 @@
+Control Architectures
+
+Robotic systems often use hierarchical control:
+
+**High-level (Task Space)**: Plan desired movements in Cartesian space (where should the hand go?)
+
+**Mid-level (Inverse Kinematics)**: Convert task-space commands to joint-space commands
+
+**Low-level (Joint Control)**: Execute joint commands using PID or other controllers
+
+This hierarchy allows for more intuitive programming while maintaining precise control.

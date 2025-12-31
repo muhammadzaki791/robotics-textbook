@@ -1,0 +1,5 @@
+**Critical DOF for Basic Functionality**:
+- 6 DOF per arm for reaching (3 for shoulder, 1 for elbow, 2 for wrist)
+- 6 DOF per leg for walking (3 for hip, 1 for knee, 2 for ankle)
+- 3-6 DOF for head/neck for vision and interaction
+- Multiple DOF for hands/fingers for manipulation

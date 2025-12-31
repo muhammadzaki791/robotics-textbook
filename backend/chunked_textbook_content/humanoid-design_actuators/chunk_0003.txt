@@ -1,0 +1,4 @@
+Servo Motors
+
+**DC Servo Motors**: Most common in humanoid robots.
+

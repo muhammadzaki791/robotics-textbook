@@ -1,0 +1,9 @@
+Human-Inspired Design Philosophy
+
+Humanoid robots are designed with human-like characteristics for specific reasons:
+
+**Environmental Compatibility**: Humanoid form allows robots to operate in environments designed for humans—using the same doors, stairs, vehicles, and tools.
+
+**Social Interaction**: Human-like appearance and behavior can facilitate more natural interaction with humans.
+
+**Functional Versatility**: Two arms with dexterous hands, combined with bipedal locomotion, provide general-purpose manipulation and mobility.

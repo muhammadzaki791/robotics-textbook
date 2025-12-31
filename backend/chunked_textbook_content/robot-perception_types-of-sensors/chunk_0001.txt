@@ -1,0 +1,5 @@
+
+
+# Types of Sensors in Robotics
+
+Robotic sensors can be broadly categorized into two types: exteroceptive and proprioceptive.

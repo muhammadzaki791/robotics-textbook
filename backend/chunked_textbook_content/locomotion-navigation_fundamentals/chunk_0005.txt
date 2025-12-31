@@ -1,0 +1,13 @@
+Phases of Bipedal Gait
+
+A complete walking cycle consists of several phases:
+
+**Single Support**: One foot is in contact with the ground, the other is swinging forward. This is the majority of the gait cycle.
+
+**Double Support**: Both feet are in contact with the ground, occurring briefly at the transition between steps.
+
+**Pre-swing**: The trailing leg prepares to lift off.
+
+**Initial Contact**: The swing foot makes contact with the ground.
+
+**Loading Response**: Weight transfers to the newly contacted foot.

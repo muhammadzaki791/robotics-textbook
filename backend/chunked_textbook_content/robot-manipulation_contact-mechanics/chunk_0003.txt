@@ -1,0 +1,7 @@
+Contact Models
+
+**Point Contact**: Simple model assuming contact occurs at a point with friction.
+
+**Surface Contact**: More realistic model considering the contact area and pressure distribution.
+
+**Soft Contact**: Models the deformation of soft fingers or soft objects during contact.

@@ -1,0 +1,5 @@
+---
+title: Foundational Concepts in Robotics
+sidebar_position: 1
+description: Core mathematical and engineering principles for robot motion, forces, and regulation, including kinematics, dynamics, and control systems.
+---

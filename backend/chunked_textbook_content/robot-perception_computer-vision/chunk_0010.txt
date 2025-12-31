@@ -1,0 +1,9 @@
+Challenges in Robotic Vision
+
+**Real-time Processing**: Robots need to process visual information quickly for responsive behavior.
+
+**Variable Lighting**: Indoor and outdoor lighting conditions vary significantly.
+
+**Motion Blur**: Moving robots can cause image blur.
+
+**Computational Constraints**: Embedded systems have limited processing power.

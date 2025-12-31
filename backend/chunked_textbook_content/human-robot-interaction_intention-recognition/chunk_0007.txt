@@ -1,0 +1,4 @@
+**Audio Analysis**:
+- Speech content to understand verbal instructions
+- Prosody (tone, rhythm) to infer emotional state
+- Environmental sounds to understand context

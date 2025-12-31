@@ -1,0 +1,11 @@
+Levels of Autonomy
+
+The level of robot autonomy can vary based on the task and situation:
+
+**Teleoperation**: Human has direct control over robot actions.
+
+**Supervisory Control**: Human provides high-level commands, robot handles low-level execution.
+
+**Collaborative Control**: Human and robot share control of the same task.
+
+**Autonomous Operation**: Robot operates independently with human oversight.

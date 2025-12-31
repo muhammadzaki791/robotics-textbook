@@ -1,0 +1,3 @@
+Perception for Humanoid Locomotion
+
+Humanoid robots face unique perception challenges for locomotion:

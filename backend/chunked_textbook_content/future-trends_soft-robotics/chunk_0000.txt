@@ -1,0 +1,5 @@
+---
+title: Soft Robotics
+sidebar_position: 3
+description: Exploring compliant robotic systems and soft actuation technologies for safer and more adaptable robots.
+---

@@ -1,0 +1,11 @@
+Representing Orientation
+
+While position tells us where something is, orientation tells us which direction it's pointing. Representing orientation in 3D space is more complex than position. We have several options:
+
+**Euler Angles**: Three sequential rotations around different axes (commonly roll, pitch, yaw). While intuitive, Euler angles suffer from "gimbal lock" where certain orientations become impossible to represent uniquely.
+
+**Rotation Matrices**: 3x3 matrices that transform vectors from one coordinate system to another. These are mathematically robust but require 9 numbers to represent 3 degrees of freedom.
+
+**Quaternions**: Four numbers that represent rotation without the problems of Euler angles. These are commonly used in robotics and computer graphics.
+
+For humanoid robots, orientation representation is particularly important because they need to maintain balance and coordinate complex movements of multiple body parts.

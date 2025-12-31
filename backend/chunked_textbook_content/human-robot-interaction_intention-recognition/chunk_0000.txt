@@ -1,0 +1,5 @@
+---
+title: Intention Recognition and Prediction
+sidebar_position: 4
+description: Understanding human behavior and predicting intentions for effective collaboration.
+---

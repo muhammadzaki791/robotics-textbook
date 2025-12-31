@@ -1,0 +1,6 @@
+**Applications in Robotics**:
+- Object recognition and classification
+- Scene understanding
+- Navigation and obstacle detection
+- Human detection and gesture recognition
+- Visual servoing (controlling robot motion based on visual feedback)

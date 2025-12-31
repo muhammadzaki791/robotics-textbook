@@ -1,0 +1,1 @@
+**Stereovision**: The process of extracting 3D information from 2D images captured from different viewpoints, used for depth perception in robots.

@@ -1,0 +1,5 @@
+
+
+# Grasp Planning and Taxonomies
+
+Grasp planning determines how to position and configure the robot's hand to stably grasp an object.

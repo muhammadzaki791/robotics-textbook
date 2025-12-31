@@ -1,0 +1,5 @@
+---
+title: Actuator Technologies
+sidebar_position: 3
+description: Understanding different actuator technologies for humanoid robots including servo motors, compliance systems, and power considerations.
+---

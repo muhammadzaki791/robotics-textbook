@@ -1,0 +1,11 @@
+Deep Learning in Visual Perception
+
+Deep learning has revolutionized computer vision for robotics:
+
+**Object Detection**: Convolutional Neural Networks (CNNs) can identify and locate objects in images.
+
+**Semantic Segmentation**: Pixel-level classification of image content.
+
+**Pose Estimation**: Estimating 3D pose of objects or humans from 2D images.
+
+**Visual Reinforcement Learning**: Learning control policies directly from visual input.

@@ -1,0 +1,9 @@
+Basic Concepts
+
+Reinforcement learning (RL) involves an agent learning to make decisions by interacting with an environment to maximize cumulative reward. The key components are:
+
+**State (s)**: The current situation of the robot
+**Action (a)**: What the robot can do
+**Reward (r)**: Feedback about the quality of actions
+**Policy (π)**: Strategy for selecting actions
+**Environment**: The physical world the robot interacts with

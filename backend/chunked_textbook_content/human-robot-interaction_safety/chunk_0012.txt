@@ -1,0 +1,7 @@
+Collision Avoidance
+
+**Static Collision Avoidance**: Prevent robot from colliding with humans during normal operation.
+
+**Dynamic Collision Avoidance**: React to unexpected human movements during robot motion.
+
+**Compliance Control**: Make robot mechanically compliant to reduce injury potential during contact.

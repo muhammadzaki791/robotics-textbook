@@ -1,0 +1,4 @@
+**Soft Sensors**: Flexible sensors integrated into soft robotic systems.
+- **Capacitive Sensors**: Measuring deformation and contact
+- **Optical Sensors**: Using light transmission changes
+- **Resistive Sensors**: Measuring pressure and strain

@@ -1,0 +1,11 @@
+
+
+**Riccati Equation**: A matrix equation that appears in optimal control problems, particularly in LQR and LQG control design.
+
+**Sliding Mode Control**: A robust control technique that forces the system state to follow a predefined sliding surface despite uncertainties and disturbances.
+
+**Stability Margin**: A measure of how close a control system is to instability, important for robust performance.
+
+**Trajectory Tracking**: The control of a robot to follow a desired time-varying path with specified position, velocity, and acceleration.
+
+**Virtual Model Control**: A control approach that creates virtual components to achieve desired dynamic behavior in robotic systems.

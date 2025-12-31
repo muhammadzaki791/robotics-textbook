@@ -1,55 +1,66 @@
-# [PROJECT_NAME] Constitution
-<!-- Example: Spec Constitution, TaskFlow Constitution, etc. -->
+<!--
+Sync Impact Report:
+Version change: 1.1.0 -> 1.2.0
+Modified principles: All principles updated to reflect RAG chatbot integration while maintaining educational focus.
+Added sections: New principles for RAG architecture, retrieval accuracy, and chatbot behavior.
+Removed sections: None.
+Templates requiring updates:
+- .specify/templates/plan-template.md ⚠ pending
+- .specify/templates/spec-template.md ⚠ pending
+- .specify/templates/tasks-template.md ⚠ pending
+- .specify/templates/commands/*.md ⚠ pending
+- README.md ⚠ pending
+- docs/quickstart.md ⚠ pending
+Follow-up TODOs: None.
+-->
+# Integrated RAG Chatbot for Physical AI & Humanoid Robotics Textbook Constitution
 
 ## Core Principles
 
-### [PRINCIPLE_1_NAME]
-<!-- Example: I. Library-First -->
-[PRINCIPLE_1_DESCRIPTION]
-<!-- Example: Every feature starts as a standalone library; Libraries must be self-contained, independently testable, documented; Clear purpose required - no organizational-only libraries -->
+### I. Technical Accuracy and Retrieval Integrity
+The chatbot MUST provide responses strictly grounded in the textbook content stored in Qdrant, with no hallucination or external knowledge injection unless explicitly marked as general knowledge support.
 
-### [PRINCIPLE_2_NAME]
-<!-- Example: II. CLI Interface -->
-[PRINCIPLE_2_DESCRIPTION]
-<!-- Example: Every library exposes functionality via CLI; Text in/out protocol: stdin/args → stdout, errors → stderr; Support JSON + human-readable formats -->
+### II. Educational Clarity and Accessibility
+All chatbot responses MUST maintain the same beginner-to-intermediate clarity as the textbook, suitable for students with no robotics background, with strong conceptual grounding before complex engineering details.
 
-### [PRINCIPLE_3_NAME]
-<!-- Example: III. Test-First (NON-NEGOTIABLE) -->
-[PRINCIPLE_3_DESCRIPTION]
-<!-- Example: TDD mandatory: Tests written → User approved → Tests fail → Then implement; Red-Green-Refactor cycle strictly enforced -->
+### III. Progressive Learning Support
+The chatbot MUST support the textbook's progressive learning flow: theory → simulation → physical implementation, guiding students through concepts in appropriate sequence.
 
-### [PRINCIPLE_4_NAME]
-<!-- Example: IV. Integration Testing -->
-[PRINCIPLE_4_DESCRIPTION]
-<!-- Example: Focus areas requiring integration tests: New library contract tests, Contract changes, Inter-service communication, Shared schemas -->
+### IV. Strict Content Grounding
+The chatbot MUST only use content retrieved from the vector database for answers; no web access or external information sources are permitted, ensuring consistency with textbook material.
 
-### [PRINCIPLE_5_NAME]
-<!-- Example: V. Observability, VI. Versioning & Breaking Changes, VII. Simplicity -->
-[PRINCIPLE_5_DESCRIPTION]
-<!-- Example: Text I/O ensures debuggability; Structured logging required; Or: MAJOR.MINOR.BUILD format; Or: Start simple, YAGNI principles -->
+### V. Selected-Text Priority Mode
+When users highlight specific text, the chatbot MUST restrict its responses strictly to the selected content, providing focused explanations and context based solely on that selection.
 
-### [PRINCIPLE_6_NAME]
+### VI. Reliable Architecture and Performance
+The RAG system MUST utilize free-tier-compatible architecture (Qdrant Cloud Free Tier, Neon Serverless Postgres) with minimal latency, ensuring fast vector search and efficient API responses.
 
+### VII. Privacy and Safety Compliance
+The system MUST prioritize privacy and safety: no logging of sensitive user data, no storing full conversation history unless necessary for functionality.
 
-[PRINCIPLE__DESCRIPTION]
+## Key Standards
 
-## [SECTION_2_NAME]
-<!-- Example: Additional Constraints, Security Requirements, Performance Standards, etc. -->
+- All responses must cite retrieved sections internally (not user-facing citations) for traceability.
+- Chatbot MUST respond with "Not found in book" when content is not available in the vector database.
+- Backend architecture MUST use FastAPI with well-documented, typed, and tested endpoints.
+- Database schema (Neon) MUST store metadata cleanly: document IDs, chapter mapping, timestamps, embedding vector references.
+- Qdrant collections MUST be organized by chapter or section for targeted retrieval.
+- The system MUST support user-selected-text mode with strict content restriction to selected text.
+- Integration MUST be seamless into the Docusaurus site without layout or script errors.
+- All services MUST be deployable on low-cost or serverless hosting platforms.
 
-[SECTION_2_CONTENT]
-<!-- Example: Technology stack requirements, compliance standards, deployment policies, etc. -->
+## Architecture Requirements
 
-## [SECTION_3_NAME]
-<!-- Example: Development Workflow, Review Process, Quality Gates, etc. -->
-
-[SECTION_3_CONTENT]
-<!-- Example: Code review requirements, testing gates, deployment approval process, etc. -->
+The RAG pipeline MUST include: text chunking → embeddings → vector search → context assembly → controlled generation, with proper error handling and fallback responses.
 
 ## Governance
-<!-- Example: Constitution supersedes all other practices; Amendments require documentation, approval, migration plan -->
 
-[GOVERNANCE_RULES]
-<!-- Example: All PRs/reviews must verify compliance; Complexity must be justified; Use [GUIDANCE_FILE] for runtime development guidance -->
+- Entire system MUST be developed through Spec-Kit Plus workflow (specify → plan → tasks → implement).
+- Implementation MUST be performed through Claude Code with appropriate human oversight.
+- System MUST integrate seamlessly with the existing Docusaurus textbook deployment.
+- The RAG chatbot MUST enhance the educational value of the textbook without compromising accuracy.
+- API endpoints MUST function reliably under load and without errors.
+- Database and Qdrant embeddings MUST remain consistent and updatable.
+- Chatbot behavior MUST match the pedagogical tone and accuracy required for the textbook.
 
-**Version**: [CONSTITUTION_VERSION] | **Ratified**: [RATIFICATION_DATE] | **Last Amended**: [LAST_AMENDED_DATE]
-<!-- Example: Version: 2.1.1 | Ratified: 2025-06-13 | Last Amended: 2025-07-16 -->
+**Version**: 1.2.0 | **Ratified**: 2025-12-06 | **Last Amended**: 2025-12-10

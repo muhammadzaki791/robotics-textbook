@@ -1,0 +1,4 @@
+Kalman Filters
+
+Kalman filters provide optimal state estimation for linear systems with Gaussian noise. They work by:
+

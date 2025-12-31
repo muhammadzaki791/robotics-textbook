@@ -1,0 +1,3 @@
+Overview
+
+Learning from demonstration (LfD), also known as imitation learning, involves learning skills by observing expert demonstrations. This approach is particularly attractive because it can be easier to demonstrate a skill than to program it explicitly.

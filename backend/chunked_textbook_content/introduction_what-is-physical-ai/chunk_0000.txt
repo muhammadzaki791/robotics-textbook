@@ -1,0 +1,5 @@
+---
+title: What is Physical AI?
+sidebar_position: 2
+description: Understanding the fundamental concept of Physical AI and how it differs from traditional AI systems.
+---

@@ -1,0 +1,9 @@
+Applications
+
+**Grasp Stability**: Detecting whether an object is slipping during grasping.
+
+**Surface Properties**: Identifying material properties through touch.
+
+**Safe Interaction**: Ensuring compliant behavior during human-robot interaction.
+
+**Assembly Tasks**: Providing feedback during precise assembly operations.

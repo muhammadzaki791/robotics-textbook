@@ -1,0 +1,5 @@
+- **Actuators**: Motors or other devices that create movement (servo motors, hydraulic systems)
+- **Sensors**: Cameras, microphones, touch sensors, IMUs (Inertial Measurement Units) for balance
+- **Computing Systems**: Processors and software to control the robot
+- **Power Systems**: Batteries or other power sources
+- **Structural Components**: The physical frame and joints

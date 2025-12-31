@@ -1,0 +1,7 @@
+Mechanical Compliance
+
+**Passive Compliance**: Mechanical design that allows safe interaction.
+
+**Active Compliance**: Control systems that adjust robot impedance.
+
+**Impact Absorption**: Design features that absorb collision energy.

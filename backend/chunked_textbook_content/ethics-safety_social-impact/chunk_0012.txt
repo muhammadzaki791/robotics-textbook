@@ -1,0 +1,4 @@
+**Access Issues**: Who will have access to advanced humanoid robots?
+- **Economic Barriers**: Cost may limit access to wealthy individuals and organizations
+- **Digital Divide**: Similar to technology access disparities
+- **Geographic Disparities**: Different deployment across regions

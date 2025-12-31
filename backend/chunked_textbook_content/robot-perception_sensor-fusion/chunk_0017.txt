@@ -1,0 +1,7 @@
+Applications in Humanoid Robotics
+
+**Multi-Sensor Balance Control**: Combining IMU data, joint encoders, and possibly force sensors for robust balance.
+
+**Enhanced Localization**: Fusing visual, inertial, and wheel odometry data for accurate position estimation.
+
+**Robust Object Detection**: Combining camera and LiDAR data for reliable object recognition and localization.

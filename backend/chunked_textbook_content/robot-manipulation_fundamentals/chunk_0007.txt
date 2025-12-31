@@ -1,0 +1,9 @@
+Manipulation Challenges
+
+**Uncertainty**: Object poses, shapes, and properties are rarely known exactly.
+
+**Dynamics**: Moving objects and robot arms create complex dynamic interactions.
+
+**Contact Mechanics**: Understanding and controlling forces during contact is crucial for stable grasping and safe interaction.
+
+**Compliance**: Robots must be appropriately compliant to handle objects of varying fragility and to ensure safe human interaction.

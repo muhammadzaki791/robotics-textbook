@@ -1,0 +1,31 @@
+odied AI**: Artificial intelligence systems that interact directly with the physical world through robotic bodies, as opposed to purely virtual AI systems.
+
+**Embodiment**: The concept that a robot's physical form and interaction with the environment directly influence its intelligence and behavior.
+
+**Articulated Robot**: A robot with rotary joints, typically resembling a human arm with shoulder, elbow, and wrist joints.
+
+**Configuration Space (C-Space)**: The space of all possible configurations of a robot, defined by the values of its joint variables.
+
+**Dexterity**: The ability of a robot to perform complex tasks in a confined workspace, often measured by the number of degrees of freedom and the workspace geometry.
+
+**Forward Dynamics**: The computation of joint accelerations given joint forces and torques, used for robot simulation and control.
+
+**Homogeneous Transformation**: A 4x4 matrix that represents both rotation and translation, commonly used to describe the position and orientation of robot links.
+
+**Inverse Dynamics**: The computation of forces and torques required to achieve a desired motion, important for robot control.
+
+**Jacobian Transpose**: The transpose of the Jacobian matrix, used in inverse velocity kinematics and force control.
+
+**Manipulability**: A measure of how well a robot can move in different directions at a given configuration.
+
+**Redundant Robot**: A robot with more degrees of freedom than required to perform a specific task, allowing for multiple solutions to inverse kinematics.
+
+**Rigid Body**: An object that maintains its shape and size regardless of external forces, a fundamental concept in robot modeling.
+
+**Singularity**: A robot configuration where the Jacobian matrix loses rank, causing loss of motion capability in certain directions.
+
+**Twist**: A 6-dimensional vector representing the instantaneous velocity of a rigid body, including both linear and angular velocity components.
+
+**Twist Coordinates**: A representation of the velocity of a rigid body using a 6-dimensional vector combining linear and angular velocities.
+
+**Wrench**: A 6-dimensional vector representing forces and torques applied to a rigid body, used in force control and grasp analysis.

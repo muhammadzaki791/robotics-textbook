@@ -1,0 +1,5 @@
+Research and Development
+
+**Academic Research**: Universities worldwide use humanoid robots to study locomotion, manipulation, human-robot interaction, and artificial intelligence.
+
+**Platform for AI Development**: Humanoid robots serve as testbeds for developing advanced AI capabilities in perception, reasoning, and action.

@@ -1,0 +1,5 @@
+---
+title: Systems and Architecture
+sidebar_position: 7
+description: System-level concepts and design including architecture, planning, and coordination.
+---

@@ -1,0 +1,5 @@
+
+
+# Coordinate Systems and Representations
+
+Before we can describe how robots move, we need a way to describe where things are in space. In robotics, we use coordinate systems to specify positions and orientations of objects.

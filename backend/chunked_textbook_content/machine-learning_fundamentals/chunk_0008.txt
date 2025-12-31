@@ -1,0 +1,2 @@
+**Supervised Learning**: Learning from labeled examples (input-output pairs)
+- Applications: Object recognition, pose estimation, state prediction

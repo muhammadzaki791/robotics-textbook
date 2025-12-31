@@ -1,0 +1,6 @@
+By the end of this chapter, you will be able to:
+- Understand how machine learning applies to physical robotics systems
+- Explain the principles of learning from demonstration in robotics
+- Describe reinforcement learning approaches for robotic control
+- Apply deep learning techniques to robotic perception tasks
+- Implement sim-to-real transfer methods for robotic systems

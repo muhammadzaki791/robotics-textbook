@@ -1,0 +1,5 @@
+**Characteristics**:
+- Precise position control
+- Good torque-to-weight ratio
+- Requires gearboxes for high torque
+- Can be backdrivable (important for safety)

@@ -1,0 +1,5 @@
+Machine learning addresses these challenges by:
+- Learning from experience and data
+- Adapting to individual robots and environments
+- Handling complex, high-dimensional problems
+- Improving performance over time

@@ -1,0 +1,7 @@
+Human Anatomy Inspiration
+
+**Musculoskeletal System**: Understanding human structure for robotic design.
+
+**Range of Motion**: Matching human joint ranges where beneficial.
+
+**Proportional Design**: Human-like proportions for environmental compatibility.

@@ -1,0 +1,4 @@
+Humanoid robots often include cameras, microphones, and other sensors, raising privacy concerns:
+- Data collection and storage practices
+- Consent for interaction
+- Autonomy and decision-making authority

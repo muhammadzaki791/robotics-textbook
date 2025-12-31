@@ -1,0 +1,3 @@
+**Policy-Based Methods**: Directly optimize the policy parameters
+- REINFORCE: Gradient-based policy optimization
+- Actor-Critic: Combine value and policy learning

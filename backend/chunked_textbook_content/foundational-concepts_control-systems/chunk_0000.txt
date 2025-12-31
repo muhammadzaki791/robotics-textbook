@@ -1,0 +1,5 @@
+---
+title: Control Systems in Robotics
+sidebar_position: 5
+description: Understanding feedback control, PID controllers, and advanced control strategies for robotic systems.
+---

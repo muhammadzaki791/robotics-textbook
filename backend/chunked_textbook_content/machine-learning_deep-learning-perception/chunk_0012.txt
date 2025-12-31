@@ -1,0 +1,6 @@
+Challenges in Deep Perception
+
+**Real-time Processing**: Meeting real-time requirements for robotic control
+**Computational Constraints**: Running on embedded hardware with limited resources
+**Robustness**: Handling variations in lighting, weather, and environmental conditions
+**Interpretability**: Understanding what the network has learned.

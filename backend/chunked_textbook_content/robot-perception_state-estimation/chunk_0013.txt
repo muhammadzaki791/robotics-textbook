@@ -1,0 +1,4 @@
+Particle Filters
+
+Particle filters represent the state distribution as a set of random samples (particles). They're particularly useful for multimodal distributions and highly nonlinear systems.
+

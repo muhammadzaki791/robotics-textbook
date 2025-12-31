@@ -1,0 +1,3 @@
+Covariance Intersection
+
+When sensor correlations are unknown, covariance intersection provides a conservative fusion approach that doesn't require knowledge of cross-correlations.

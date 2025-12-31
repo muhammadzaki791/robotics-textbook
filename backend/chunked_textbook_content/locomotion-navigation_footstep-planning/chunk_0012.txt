@@ -1,0 +1,5 @@
+Humanoid navigation faces unique challenges:
+- **Limited Field of View**: Sensors mounted at head height may miss low obstacles
+- **Complex Motion Constraints**: Cannot move in all directions equally well
+- **Balance Requirements**: Must consider balance when planning paths
+- **Terrain Assessment**: Must evaluate whether terrain is traversable

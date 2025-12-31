@@ -1,0 +1,9 @@
+
+
+# What is Physical AI?
+
+Welcome to the fascinating world of Physical AI and Humanoid Robotics! Unlike traditional artificial intelligence that operates primarily in digital spaces—like chatbots processing text or algorithms analyzing data—Physical AI brings intelligence into the physical world. This means creating systems that can perceive, reason, and act in three-dimensional space, interacting with objects and environments much like humans do.
+
+Humanoid robotics represents one of the most ambitious frontiers in this field. These robots are designed with human-like characteristics—typically featuring a head, torso, arms, and legs—allowing them to operate in human-centric environments and potentially interact with humans in more natural ways. From helping in disaster response to assisting the elderly, humanoid robots promise to become valuable partners in our daily lives.
+
+In this chapter, we'll explore what makes Physical AI special, why humanoid robots are important, and how this field is evolving. We'll start with fundamental definitions and then trace the journey from early mechanical automata to today's sophisticated robots.

@@ -1,0 +1,5 @@
+---
+title: Balance Control Strategies
+sidebar_position: 5
+description: Understanding feedback and feedforward control approaches for humanoid balance.
+---

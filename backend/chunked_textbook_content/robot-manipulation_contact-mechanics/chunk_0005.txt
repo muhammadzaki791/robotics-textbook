@@ -1,0 +1,11 @@
+Friction and Grasp Stability
+
+The friction cone defines the range of forces that can be applied at a contact point without causing slip:
+
+```
+|tangent_forces| ≤ μ × normal_force
+```
+
+Where μ is the coefficient of friction.
+
+For stable grasping, the object's weight and any external forces must be balanced by contact forces within the friction cones at all contact points.

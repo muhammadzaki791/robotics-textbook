@@ -1,0 +1,5 @@
+**Advantages**:
+- Higher efficiency than brushed motors
+- Longer lifespan
+- Better performance at high speeds
+- Lower electromagnetic interference

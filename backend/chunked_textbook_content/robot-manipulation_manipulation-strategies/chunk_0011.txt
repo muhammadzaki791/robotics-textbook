@@ -1,0 +1,4 @@
+Humanoid robots must maintain balance while manipulating objects:
+- Anticipate how manipulation forces will affect balance
+- Coordinate whole-body motion for stable manipulation
+- Use both arms to minimize balance disturbances

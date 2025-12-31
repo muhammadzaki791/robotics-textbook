@@ -1,0 +1,5 @@
+Humanoid manipulation should consider human factors:
+- Reachable workspace for human interaction
+- Intuitive manipulation patterns
+- Safe interaction forces
+- Natural movement patterns

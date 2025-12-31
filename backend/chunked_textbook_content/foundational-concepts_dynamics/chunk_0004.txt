@@ -1,0 +1,4 @@
+Robot dynamics builds on Newton's laws of motion:
+1. An object at rest stays at rest unless acted upon by a force
+2. F = ma (force equals mass times acceleration)
+3. For every action, there is an equal and opposite reaction

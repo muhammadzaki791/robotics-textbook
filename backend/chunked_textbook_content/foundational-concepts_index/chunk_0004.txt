@@ -1,0 +1,6 @@
+By the end of this chapter, you will be able to:
+- Understand the mathematical representation of robot position and orientation
+- Explain forward and inverse kinematics and their applications
+- Describe fundamental dynamics concepts relevant to robotics
+- Understand basic control theory principles including PID control
+- Apply these concepts to simple robotic systems

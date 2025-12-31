@@ -1,0 +1,4 @@
+The deployment of humanoid robots raises questions about:
+- Job displacement in service industries
+- Human relationships and social interaction
+- Dependency on robotic systems

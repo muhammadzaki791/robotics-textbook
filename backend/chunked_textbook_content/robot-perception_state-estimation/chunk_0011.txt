@@ -1,0 +1,3 @@
+Extended Kalman Filter (EKF)
+
+For nonlinear systems, the Extended Kalman Filter linearizes the system around the current estimate. This is useful for robot systems that involve rotations and complex kinematics.

@@ -1,0 +1,4 @@
+Humanoid robots can engage in face-to-face communication:
+- **Gaze Control**: Directing attention appropriately during interaction
+- **Facial Expressions**: Conveying emotions and social signals
+- **Body Language**: Using posture and movement to support communication

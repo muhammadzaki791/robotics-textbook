@@ -1,0 +1,5 @@
+---
+title: Power Systems and Management
+sidebar_position: 4
+description: Understanding battery technologies, power management, and energy efficiency for humanoid robots.
+---

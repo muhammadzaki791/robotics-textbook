@@ -1,0 +1,4 @@
+**Disadvantages**:
+- Compounding errors over time
+- Limited generalization to new situations
+- Distribution shift between training and execution

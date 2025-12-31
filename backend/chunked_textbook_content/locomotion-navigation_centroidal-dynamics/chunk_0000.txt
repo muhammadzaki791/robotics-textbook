@@ -1,0 +1,5 @@
+---
+title: Centroidal Dynamics
+sidebar_position: 4
+description: Understanding centroidal momentum and dynamics for whole-body control.
+---

@@ -1,0 +1,4 @@
+- **Balance Control**: IMUs and joint encoders provide information about the robot's pose and motion
+- **Safe Interaction**: Force/torque sensors enable compliant behavior
+- **Gait Analysis**: Joint sensors monitor walking patterns
+- **Self-Monitoring**: Sensors detect mechanical issues or unusual loading

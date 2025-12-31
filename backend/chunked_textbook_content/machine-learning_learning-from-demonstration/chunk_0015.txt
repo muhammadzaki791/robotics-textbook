@@ -1,0 +1,4 @@
+**Applications**:
+- Reproducing demonstrated movements
+- Adapting to new goal positions
+- Combining multiple movements

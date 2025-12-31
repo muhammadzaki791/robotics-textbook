@@ -1,0 +1,4 @@
+**Deep Q-Networks (DQN)**:
+- Use neural networks to approximate Q-values
+- Experience replay for sample efficiency
+- Target networks for training stability

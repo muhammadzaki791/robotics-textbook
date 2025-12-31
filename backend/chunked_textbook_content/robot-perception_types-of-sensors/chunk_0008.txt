@@ -1,0 +1,4 @@
+LiDAR (Light Detection and Ranging)
+
+LiDAR sensors emit laser pulses and measure the time it takes for the light to return after reflecting off objects. This provides accurate 3D distance measurements.
+

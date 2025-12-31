@@ -1,0 +1,6 @@
+Example 2: Adaptive Grasping
+A humanoid robot needs to pick up objects of different materials:
+- **Fragile**: Eggs require gentle, compliant grasping with minimal force
+- **Slippery**: Soap requires firm grip with anti-slip strategy
+- **Irregular**: Tools require multi-point contact for stable grasp
+- **Heavy**: Requires coordinated arm and body movement for support

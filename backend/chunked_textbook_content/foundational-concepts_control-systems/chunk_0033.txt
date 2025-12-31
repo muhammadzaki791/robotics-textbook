@@ -1,0 +1,6 @@
+**Solution:**
+The robot could:
+1. Lean back slightly by adjusting hip and ankle joints
+2. Use feedback from IMU sensors to measure tilt
+3. Apply PID control to minimize the CoM offset error
+4. Coordinate multiple joints (ankle, hip, knee) for stable balance

@@ -1,0 +1,5 @@
+---
+title: Human-Robot Interaction and Collaboration
+sidebar_position: 1
+description: Challenges and methods for safe, intuitive, and effective interaction between humans and humanoid robots, including shared autonomy, intention recognition, and safety protocols.
+---

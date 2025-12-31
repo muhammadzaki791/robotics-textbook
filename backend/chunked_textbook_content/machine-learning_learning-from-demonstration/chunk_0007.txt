@@ -1,0 +1,4 @@
+**Learning Algorithm**: Extracting the underlying skill from demonstrations:
+- Behavioral cloning: Direct mapping from observations to actions
+- Inverse reinforcement learning: Learning the reward function
+- Dynamic movement primitives: Learning movement patterns

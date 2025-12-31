@@ -1,0 +1,9 @@
+Feature Detection and Matching
+
+Robots identify distinctive points in images (features) and match them across different views:
+
+**SIFT (Scale-Invariant Feature Transform)**: Detects and describes local features that are invariant to scale, rotation, and illumination changes.
+
+**SURF (Speeded Up Robust Features)**: Faster alternative to SIFT.
+
+**ORB (Oriented FAST and Rotated BRIEF)**: Efficient feature detector suitable for real-time applications.

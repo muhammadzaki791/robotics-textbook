@@ -1,0 +1,5 @@
+Dynamic Footstep Planning
+
+**Reactive Planning**: Adjust footsteps based on sensor feedback during walking.
+
+**Predictive Planning**: Plan footsteps ahead based on expected terrain and goals.

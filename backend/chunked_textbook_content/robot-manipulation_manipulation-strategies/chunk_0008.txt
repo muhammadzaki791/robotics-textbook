@@ -1,0 +1,4 @@
+Consider the subsequent task when planning grasps:
+- For pouring, orient the object appropriately
+- For insertion tasks, consider the insertion direction
+- For assembly, consider how the grasp enables the next operation

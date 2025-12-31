@@ -1,0 +1,6 @@
+1. **Object Recognition**: Identify the object to be grasped
+2. **Pose Estimation**: Determine object position and orientation
+3. **Grasp Candidate Generation**: Generate potential grasp configurations
+4. **Grasp Evaluation**: Assess stability and feasibility of candidates
+5. **Grasp Selection**: Choose the best grasp based on criteria
+6. **Execution**: Execute the approach, grasp, and lift motions

@@ -1,0 +1,4 @@
+**Neural Plasticity**: How robot use affects human brain structure.
+- **Adaptation**: Brain changes from robot interaction
+- **Learning**: Neural changes from robot-assisted learning
+- **Rehabilitation**: Using robots for neural recovery

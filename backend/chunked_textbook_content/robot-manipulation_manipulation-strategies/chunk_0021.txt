@@ -1,0 +1,3 @@
+Underactuated Hands
+
+Many robotic hands use underactuation, where fewer actuators than degrees of freedom allow the hand to adapt to object shapes through mechanical design rather than complex control.

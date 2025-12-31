@@ -1,0 +1,9 @@
+Range Sensors
+
+Other range sensors include:
+
+**Ultrasonic Sensors**: Use sound waves to measure distance. Inexpensive but limited accuracy and range.
+
+**Infrared Sensors**: Measure distance using infrared light. Useful for short-range detection.
+
+**Time-of-Flight (ToF) Sensors**: Measure distance based on the time it takes for light to travel to an object and back.

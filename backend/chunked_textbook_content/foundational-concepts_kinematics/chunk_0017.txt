@@ -1,0 +1,16 @@
+Exercises
+
+1. **Forward Kinematics Practice**: For a 2-link robot arm with L₁ = 4 units and L₂ = 2 units, calculate the end-effector position when θ₁ = 60° and θ₂ = 30°.
+
+2. **Workspace Analysis**: For a 2-link arm with L₁ = 6 and L₂ = 4, what is the maximum distance the end-effector can reach from the base? What is the minimum distance?
+
+3. **Inverse Kinematics Challenge**: Can the same arm from Exercise 1 reach the point (8, 1)? Justify your answer mathematically.
+
+4. **Jacobian Application**: If a 2-link robot arm has joint velocities θ̇₁ = 0.1 rad/s and θ̇₂ = 0.2 rad/s, and the Jacobian at the current configuration is:
+   ```
+   [0.8  -0.6]
+   [0.6   0.8]
+   ```
+   What are the resulting end-effector velocities?
+
+5. **Humanoid Application**: How would you apply inverse kinematics to position both feet of a humanoid robot for stable bipedal walking? What constraints would you need to consider?

@@ -1,0 +1,5 @@
+---
+title: Perception and Learning
+sidebar_position: 4
+description: Sensing, perception, and machine learning concepts including computer vision and learning algorithms.
+---

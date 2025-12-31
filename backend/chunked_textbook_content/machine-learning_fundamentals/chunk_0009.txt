@@ -1,0 +1,2 @@
+**Unsupervised Learning**: Finding patterns in unlabeled data
+- Applications: Clustering, anomaly detection, dimensionality reduction

@@ -1,0 +1,5 @@
+Soft robotics represents a paradigm shift from rigid to compliant robotic systems:
+- **Inherent Safety**: Natural compliance reduces injury risk
+- **Adaptability**: Conform to irregular surfaces and objects
+- **Simplicity**: Often simpler control than rigid systems
+- **Bio-inspiration**: Mimicking soft biological systems

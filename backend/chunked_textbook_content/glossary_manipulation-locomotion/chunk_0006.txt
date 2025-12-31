@@ -1,0 +1,1 @@
+**Three-Point Contact**: A stable configuration where the robot maintains contact with the environment at three points.

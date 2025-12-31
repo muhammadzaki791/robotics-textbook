@@ -1,0 +1,10 @@
+Where:
+- `x̂` is the state estimate
+- `P` is the covariance matrix
+- `F` is the state transition model
+- `B` is the control-input model
+- `u` is the control vector
+- `H` is the observation model
+- `z` is the measurement
+- `Q` is the process noise covariance
+- `R` is the observation noise covariance

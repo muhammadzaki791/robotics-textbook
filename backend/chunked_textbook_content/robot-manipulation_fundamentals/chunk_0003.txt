@@ -1,0 +1,3 @@
+What is Manipulation?
+
+Manipulation is the process of using a robot's appendages to modify the position, orientation, or state of objects in the environment. This differs from locomotion (moving the robot itself) and from interaction that doesn't change object states.

@@ -1,0 +1,27 @@
+Analytical vs. Numerical Solutions
+
+**Analytical Solutions**: Closed-form solutions exist for simple robots (like 6-DOF arms with specific geometries). These are fast and provide all possible solutions.
+
+**Numerical Solutions**: For complex robots like humanoid arms with many degrees of freedom, numerical methods are often necessary. Common approaches include:
+
+**Jacobian-based Methods**: Use the Jacobian matrix to relate joint velocities to end-effector velocities:
+
+```
+ẋ = J(θ)θ̇
+```
+
+To find joint velocities that achieve desired end-effector velocities:
+
+```
+θ̇ = J⁺(θ)ẋ
+```
+
+Where J⁺ is the pseudoinverse of the Jacobian.
+
+**Cyclic Coordinate Descent (CCD)**: Iteratively adjusts each joint to minimize the error between current and desired end-effector pose.
+
+**Damped Least Squares**: Adds a damping factor to handle singularities:
+
+```
+θ̇ = Jᵀ(JJᵀ + λ²I)⁻¹ẋ
+```

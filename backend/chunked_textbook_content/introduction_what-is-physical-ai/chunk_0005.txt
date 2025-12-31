@@ -1,0 +1,4 @@
+Physical AI vs. Traditional AI
+
+Traditional AI systems operate in well-defined, often deterministic environments. A chess-playing AI, for example, has a perfectly known game state and can think several moves ahead. Physical AI, however, operates in environments that are:
+

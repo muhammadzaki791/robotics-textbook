@@ -1,0 +1,11 @@
+Exercises
+
+1. **Workspace Analysis**: For a 6-DOF robot arm, how would you determine if an object at coordinates (x, y, z) is within the robot's reachable workspace? What factors would you consider?
+
+2. **Grasp Planning**: A robot needs to pick up a cylindrical cup. Describe at least 3 different grasping strategies and when each would be most appropriate.
+
+3. **Compliance Control**: Why is compliance important in robotic manipulation? Give specific examples of tasks where high compliance would be beneficial and tasks where low compliance would be better.
+
+4. **Multi-Object Manipulation**: Design a manipulation strategy for a robot that needs to stack 5 blocks of different sizes in a specific order. What challenges would arise and how would you address them?
+
+5. **Humanoid Manipulation**: How does manipulation with a humanoid robot differ from manipulation with a fixed robot arm? What additional challenges and advantages does the humanoid form provide?

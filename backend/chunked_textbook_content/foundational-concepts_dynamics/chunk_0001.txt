@@ -1,0 +1,5 @@
+
+
+# Dynamics - Forces and Motion
+
+While kinematics describes motion, dynamics explains the forces and torques required to create that motion. Understanding dynamics is crucial for designing controllers that can make robots move as intended.

@@ -1,0 +1,9 @@
+Mathematical Formulation
+
+Given a desired end-effector pose (position and orientation), inverse kinematics finds the joint angles θ that achieve this pose:
+
+```
+T(θ) = T_desired
+```
+
+Where T(θ) is the forward kinematics transformation matrix that depends on joint angles θ.

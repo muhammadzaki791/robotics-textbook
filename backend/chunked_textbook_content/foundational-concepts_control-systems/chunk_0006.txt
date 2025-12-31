@@ -1,0 +1,5 @@
+Where:
+- e(t) is the error (desired value - actual value)
+- Kp is the proportional gain
+- Ki is the integral gain
+- Kd is the derivative gain

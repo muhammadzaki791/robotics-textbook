@@ -1,0 +1,5 @@
+---
+title: Ethical Frameworks for Humanoid Robotics
+sidebar_position: 2
+description: Understanding various ethical approaches and frameworks applicable to humanoid robotics development and deployment.
+---

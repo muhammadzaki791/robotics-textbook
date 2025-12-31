@@ -1,0 +1,3 @@
+**Robot Rights**: Should robots have rights as they become more sophisticated?
+- Currently: Robots are property, not rights-bearing entities
+- Future considerations: Advanced AI systems may raise questions about moral status

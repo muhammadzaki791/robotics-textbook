@@ -1,0 +1,4 @@
+**Limitations**:
+- Assumes relatively slow, quasi-static motion
+- Simplifies complex whole-body dynamics
+- May not capture all aspects of dynamic locomotion

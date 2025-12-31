@@ -1,0 +1,7 @@
+Joint Sensors
+
+**Encoders**: Measure joint angles with high precision. Can be absolute (knowing position immediately) or incremental (requiring homing procedure).
+
+**Force/Torque Sensors**: Measure forces and torques at joints or end-effectors. Essential for safe interaction and manipulation.
+
+**Tactile Sensors**: Measure contact forces across surfaces, providing detailed touch information.

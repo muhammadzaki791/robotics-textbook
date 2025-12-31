@@ -1,0 +1,5 @@
+**Demonstration Collection**: Recording expert behavior, including:
+- Joint angles and positions
+- Forces and torques
+- Visual observations
+- Environmental context

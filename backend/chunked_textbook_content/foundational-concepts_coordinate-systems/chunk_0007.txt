@@ -1,0 +1,12 @@
+Homogeneous Transformations
+
+To represent both position and orientation together, we use homogeneous transformations. These are 4x4 matrices that can represent both rotation and translation in a single mathematical operation.
+
+```
+    [ R₁₁  R₁₂  R₁₃  x ]
+T = [ R₂₁  R₂₂  R₂₃  y ]
+    [ R₃₁  R₃₂  R₃₃  z ]
+    [  0    0    0   1 ]
+```
+
+Where R represents the 3x3 rotation matrix and (x, y, z) represents the translation.

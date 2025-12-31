@@ -1,0 +1,5 @@
+---
+title: Footstep Planning and Navigation
+sidebar_position: 7
+description: Understanding algorithms for planning foot placements and navigating complex environments.
+---

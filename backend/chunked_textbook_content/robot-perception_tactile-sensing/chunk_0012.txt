@@ -1,0 +1,7 @@
+Balance-Related Perception
+
+**Center of Pressure**: For bipedal robots, knowing where ground reaction forces act.
+
+**Support Polygon**: The area where feet contact the ground, affecting balance stability.
+
+**Visual Feedback**: Using vision to maintain heading and avoid obstacles during walking.
