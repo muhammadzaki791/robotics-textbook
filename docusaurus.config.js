@@ -47,7 +47,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            "https://github.com/your-username/robotics-textbook/edit/main/",
+            "https://github.com/muhammadzaki791/robotics-textbook",
           // Serve docs from /docs path to avoid conflict with homepage
           routeBasePath: "/docs",
         },
@@ -78,7 +78,7 @@ const config = {
             label: "Textbook",
           },
           {
-            href: "https://github.com/your-username/robotics-textbook",
+            href: "https://github.com/muhammadzaki791/robotics-textbook",
             label: "GitHub",
             position: "right",
           },
@@ -114,7 +114,7 @@ const config = {
             items: [
               {
                 label: "GitHub",
-                href: "https://github.com/facebook/docusaurus",
+                href: "https://github.com/muhammadzaki791",
               },
             ],
           },
